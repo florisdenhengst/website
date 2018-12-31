@@ -1,12 +1,10 @@
 ---
 title: "Home"
 date: 2018-12-24T16:38:25+01:00
-draft: true
 ---
 
 # Floris den Hengst
-<img src="/imgs/flopic.jpg" style="max-width:20%;min-width:40px;float:right;padding:0 0 1em 1em;" alt=""
-/>
+<img src="/imgs/flopic.jpg" style="max-width:20%;min-width:40px;float:right;padding:0 0 1em 1em;" alt="Picture of Floris" />
 
 I am a PhD. student in the [Computational Intelligence](https://www.cs.vu.nl/ci/) and [Knowledge
 Representation & Reasoning](https://krr.cs.vu.nl/) groups of the Vrije Universiteit Amsterdam and

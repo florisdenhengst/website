@@ -4,3 +4,7 @@
 [submodule "themes/metis"]
 	path = themes/metis
 	url = git@github.com:florisdenhengst/metis.git
+[submodule "public"]
+	path = public
+	url = git@github.com:florisdenhengst/florisdenhengst.github.io.git
+	branch = master
