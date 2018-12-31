@@ -30,7 +30,11 @@ use an adaptive conversational agent for financial advice to investigate these i
 * Various teaching- and research assistant positions (2009 - 2014)
 
 ## Publications
-None, yet!
+* Floris den Hengst - Detecting Interesting Outliers: Active Learning for Anomaly Detection,
+_Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_, June 2016,
+[pdf](publications/masterthesis_floris_den_hengst.pdf)  
+  Presented as poster at BNAIC 2016, [pdf](publications/bnaic17poster.pdf)
+
 
 ## Student supervision
 Current:
