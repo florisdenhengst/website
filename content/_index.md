@@ -22,12 +22,15 @@ result? How can we bridge the gap between experts' and RL agents' representation
 actions? How does constraining a RL agent impact its learning capabilities? In this project, we
 use an adaptive conversational agent for financial advice to investigate these issues.
 
-## Work Experience
-* PhD student @ [Vrije Universiteit
-  Amsterdam](https://www.cs.vu.nl/ci/index.php/constrained-reinforcement-learning-for-personalization-in-highly-regulated-domains/) and [ING](https://www.ing.com/) (current)
-* Software Engineer @ [Crunchr](https://www.crunchrapps.com) (2014-2017)
-* Web Developer @ [Zilt&Co](https://www.ziltenco.nl) (2009 - 2014)
-* Various teaching- and research assistant positions (2009 - 2014)
+## Experience
+* PhD student, [Vrije Universiteit
+  Amsterdam](https://www.cs.vu.nl/ci/index.php/constrained-reinforcement-learning-for-personalization-in-highly-regulated-domains/) and [ING](https://www.ing.com/), current
+* Software Engineer, [Crunchr](https://www.crunchrapps.com), 2014-2017
+* Msc. Artificial Intelligence, Cum Laude, Vrije Universiteit Amsterdam, 2013-2016
+* Web Developer @ [Zilt&Co](https://www.ziltenco.nl), 2009 - 2014
+* Various teaching- and research assistant positions, 2009 - 2014
+* Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008-2013   
+  Officially titled `Lifestyle Informatics' at the time
 
 ## Publications
 * Floris den Hengst - Detecting Interesting Outliers: Active Learning for Anomaly Detection,
