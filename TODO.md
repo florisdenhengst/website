@@ -18,6 +18,7 @@
 * Add post on off-policy policy evaluation
   * How it differs from QLearning
   * https://datascience.stackexchange.com/questions/27311/reinforcement-learning-on-data-only-no-emulators 
+  * Use a cart-pole balancing with a random policy from openAI gym
 * Claim florisdenhengst.com or some nickname and refer to it
   * Update `baseURL` in ``config.toml``
 * Blog post ideas
