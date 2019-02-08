@@ -42,10 +42,10 @@ _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_, June 20
 ## Student supervision
 Current:
 
-* Rob Wanders "Predicting number of transactions with Echo State Networks", BA paper
 * Floris Turkenburg, Msc. thesis
 
 Past:
 
+* Rob Wanders "Predicting number of transactions with Echo State Networks", BA paper
 * Luca Simonetto "Generating spiking time series with Generative Adversarial Networks: an application on banking transactions", Msc. thesis
 * Ilse Goedhart "Predicting IT Performance using Quantile Regression", BA paper
