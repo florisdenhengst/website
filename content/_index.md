@@ -43,6 +43,7 @@ _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_, June 20
 Current:
 
 * Floris Turkenburg, Msc. thesis
+* Tim Nederveen, Msc. thesis
 
 Past:
 
