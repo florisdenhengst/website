@@ -1,6 +1,6 @@
 ---
 title: "The Book that Predicted AlphaGo"
-date: 2019-02-17T21:54:28+01:00
+date: 2018-08-01T21:54:28+01:00
 tags: [Reinforcement Learning]
 ---
 

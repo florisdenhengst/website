@@ -1,8 +1,8 @@
 ---
 title: "How Reinforcement Learning is Applied to Dialogue Control"
 date: 2019-02-15T12:41:16+01:00
-tags: [tutorial, dialog systems, reinforcement learning, pomdp]
-draft: true
+tags: [Tutorial, Dialog Systems, Reinforcement Learning, POMDP]
+draft: false
 ---
 
 The value offering of most contemporary chatbot platforms consists of packaging state-of-art
@@ -11,13 +11,14 @@ Voice Synthesis into a comprehensive API. The API typically also includes some p
 model for dialog control such as DialogFlows' [Contexts and follow-up
 Intents](https://www.youtube.com/watch?v=-tOamKtmxdY) and Alexa's [Dialog
 model](https://developer.amazon.com/docs/custom-skills/define-the-dialog-to-collect-and-confirm-required-information.html).
-It's also up to the developer to model relevant dialog flows and craft rules to determine what the
-bot should do next. Figure 1 summarizes this in a diagram. Developers can use their experience
-and common sense or even turn to [focus
+Implementing the right dialog controller is up to the developer. Figure 1 summarizes this in a
+diagram, with the handcrafted modules in green and with a keyboard in the top right. These
+handcrafted modules Developers
+can use their experience and common sense or even turn to [focus
 groups](https://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources/conduct-focus-groups/main)
-and A/B tests in optimizing these parts of the bot. Although making all optimization decisions
-upfront works well in small systems, it fails to scale to applications where many decisions are
-involved such as when a *personalized* chatbot is desired. [Reinforcement
+and A/B tests in optimizing these handcrafted parts of the bot. Although making all optimization
+decisions upfront works well in small systems, it fails to scale to applications where many
+decisions are involved such as when a *personalized* chatbot is desired. [Reinforcement
 Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching_files/intro_RL.pdf#page=6) (RL) can
 help in such cases. In this blog post, I'll describe the formalism underlying most dialog
 management models, explain how this formalism can be generalized to support more flexible dialog
@@ -27,8 +28,8 @@ management and finally, how RL can be used to optimize dialog management using d
  <img src="/imgs/rl-for-dialog-management/dm-overview.png"
       alt="Dialog Systems Overview" />
  <figcaption>Figure 1. Overview of components in most commercially available dialog systems. The
- orange components are typically optimized using Machine Learning whereas green components are
- typically hand crafted.
+ orange components are typically optimized using Machine Learning whereas green components with a
+ keyboard in the top right are typically hand crafted.
  [<a href="https://docs.google.com/drawings/d/1onFCYv6-NcGCIUuV9GOFhEoAGBSJuVVf4sFQuj62rrc/edit?usp=sharing)">src</a>]
  </figcaption>
 </figure>
@@ -42,41 +43,68 @@ First, let's consider the following dialog for ordering a drink at Marvin the Pa
  </figcaption>
 </figure>
 
-Marvin also serves tea in case a nonalcoholic beverage is preferred and can bring users that
-aren't thirsty at the moment a towel. When the user doesn't want anything of this, they can end
-the interaction and leave Marvin to contemplate life. Finally, let's assume that users don't lie
-to Marvin about their preference for alcohol. We can formalize all of these possibilities as a
-*finite state machine* in which states are defined in terms of the available information in the
-system and transitions are by a system utterance and user response. This yields the following
-model in Figure 3, which can be hand coded by Marvin's developer.
+Marvin can serve tea in case a nonalcoholic beverage is preferred and can bring users that aren't
+thirsty at the moment a towel. When the user doesn't want any of this, they can end the
+interaction and leave Marvin to contemplate life. Finally, let's assume that users don't lie to
+Marvin about their preference for alcohol. We can formalize all of these possibilities as a
+[*finite state machine*](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM). First let's
+have a look at a simple FSM for a turnstile.
+<figure style="max-width:80%;">
+ <img src="/imgs/rl-for-dialog-management/fsm-turnstile.png"
+      alt="Example dialog" />
+ <figcaption>Figure 3. Simple finite state machine for a turnstile.
+ [<a href="https://docs.google.com/drawings/d/173R4ZuTm1vomf2vha0w-UjgVVLiMXfngVrURV_wNYpo/edit?usp=sharing">src</a>]
+ </figcaption>
+</figure>
+
+The FSM describes a system in terms of the *states* the system can be in and how all possible
+*transitions* affect the system. Transitions can be labelled, labels are typically referred to as
+input symbols as something external to the system provides these.  In dialog, states are defined
+in terms of the available information in the system and transitions are formed by user inputs that
+have been processed by ASR/NLU. The developer specifies a system response for every state of the
+conversation. Adding an 'end state' for Marvin's ordering system brings us to the following FSM,
+where transitions are labelled based on user inputs being positive (green) negative (red) or
+something else (blue):
 <figure style="max-width:80%;">
  <img src="/imgs/rl-for-dialog-management/fsm-dialog.png"
       alt="Finite-state-machine for dialog" />
- <figcaption>Figure 3. Finite State Machine for Marvin's interaction.
+ <figcaption>Figure 4. Finite state machine for Marvin's dialog management module. Dashed lines indicate
+ 'error handling' for when Marvin receives an illegal input. Transitions from intermediary nodes
+ to the final node are left out of this visualization.
  [<a href="https://docs.google.com/drawings/d/12vGvqUOlm1rj5NOdkPS30cCUkhLrlNKFoh36nU4OBqc/edit?usp=sharing">src</a>]
  </figcaption>
 </figure>
 
-Now, consider that Marvin's NLU or ASR modules are imperfect and sometimes think that users
-without thirst would like a drink. Or consider that users sometimes prefer a tea when they learn
-the only alcoholic option is a Pan-Galactic Gargle Blaster. Or that users want both a drink and a
-towel. Or that users might order for the entire party aboard their spaceship. Modelling all of
-this makes the state machine much bigger and requires making many nontrivial choices. What if we
-could learn how the dialog should be structured from data?
+Now consider that users sometimes prefer a tea when they learn the only alcoholic option is a
+Pan-Galactic Gargle Blaster. Or that users want both a drink and a towel. These more complex
+scenarios require additional links and may require that the system utterances associated with some
+states are updated. What if we want the bot to respond differently for the highlighted node (bold
+lines) based on whether the system arrived following a green or blue transition? As system
+utterances are tied to dialog state, this requires splitting the node and defining utterances for
+both. How about taking into account that users will almost never want to order an alcoholic
+beverage at 9 AM and we could skip the suggestion for an alcoholic drink at such times? Or that a
+particular user is always thirsty? This requires different models for different users and at
+different times. Modelling all of this quickly becomes unfeasible, not only because of the number
+of decision to make but also because of the lack of any principled way of doing so. How about we
+see how actual users interacts with the system and use the resulting data to make the interaction
+better over time by learning what the system should say in which situation?
 
-For a learning approach to be useable, all states in the state machine must connected first: we do
-not know what kind of interactions the data will show and do not want to exclude situations
-upfront as the point of the exercise is to use what is shown from real data. Furthermore, we need
-some way to model all actions of Marvin. In this example, Marvin can ask whether the user is
-thirsty, whether an alcoholic or non-alcoholic beverage is preferred and can propose his three
-offerings: Pan-Galactic Gargle Blasters, tea and towels. Finally, in order to model possible
-errors in NLU and ASR, we can replace the `yes`/`no` options with values that express the
-confidence of the ASR/NLU models in their understanding of the user.
+The first step for *data driven* dialog control is to decouple system utterances from states and
+maintain them in lists of system utterances \\(A\\) (for 'action') and system states \\(S\\).  The
+transitions in the dialog system are no longer dictated by the system developer, but are given by
+users of the system. Some dialog state tracking (DST) algorithm[^1] can be used to determine the
+transition. Finally, some quality metric \\(R\\) for the chatbot to optimize should be defined
+(\\(R\\) for 'reward'). Such a metric can be simply a combination of dialog length and success
+rate or more sophisticated models that estimate user satisfaction can be used. The goal of the
+chatbot now becomes to select the utterance \\(a \in A\\) given the current \\(s \in S\\) to
+maximize \\(R\\) for the entire conversation. This formalism is commonly referred to as the
+formalism of Markov Decision Processes (MDPs) and once the problem is in this shape, RL algorithms
+can be applied to optimize the dialogue controller using available data.
 
-Introduce MDP process and highlight why it's not markovian 
+In practice, a generalization of MDPs in which part of the true state may not be observable are
+used in order to deal with ASR/NLU/DST errors and to be able to incorporate estimates of user
+intention in the dialog state. This generalization is referred to as a Partially Observable MDP
+(POMDP) and adds the notion of observations to the MDP. I will how to deal with such POMDPs in
+another blog post.
 
-Introduce POMDP.
-
-Link to other posts that deal with policy optimization.
-
-
+[^1]: Check out the outcomes of the Dialog State Tracking Challenges: DSTC [2 \& 3](http://camdial.org/~mh521/dstc/), [4](http://www.colips.org/workshop/dstc4/),  [5](http://workshop.colips.org/dstc5/), [6](http://workshop.colips.org/dstc6/),  [7](http://workshop.colips.org/dstc7/)
