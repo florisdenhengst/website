@@ -68,9 +68,9 @@ something else (blue):
 <figure style="max-width:80%;">
  <img src="/imgs/rl-for-dialog-management/fsm-dialog.png"
       alt="Finite-state-machine for dialog" />
- <figcaption>Figure 4. Finite state machine for Marvin's dialog management module. Dashed lines indicate
- 'error handling' for when Marvin receives an illegal input. Transitions from intermediary nodes
- to the final node are left out of this visualization.
+ <figcaption>Figure 4. Finite state machine for Marvin's dialog management module. Green, red and
+ blue arrows indicate positive, negative and erroneous user responses or FSM transitions. Transitions
+ from intermediary nodes to the final node are left out of this visualization.
  [<a href="https://docs.google.com/drawings/d/12vGvqUOlm1rj5NOdkPS30cCUkhLrlNKFoh36nU4OBqc/edit?usp=sharing">src</a>]
  </figcaption>
 </figure>
@@ -104,7 +104,7 @@ can be applied to optimize the dialogue controller using available data.
 In practice, a generalization of MDPs in which part of the true state may not be observable are
 used in order to deal with ASR/NLU/DST errors and to be able to incorporate estimates of user
 intention in the dialog state. This generalization is referred to as a Partially Observable MDP
-(POMDP) and adds the notion of observations to the MDP. I will how to deal with such POMDPs in
-another blog post.
+(POMDP) and adds the notion of observations to the MDP. Stay tuned for more on POMDPs and RL
+algorithms!
 
 [^1]: Check out the outcomes of the Dialog State Tracking Challenges: DSTC [2 \& 3](http://camdial.org/~mh521/dstc/), [4](http://www.colips.org/workshop/dstc4/),  [5](http://workshop.colips.org/dstc5/), [6](http://workshop.colips.org/dstc6/),  [7](http://workshop.colips.org/dstc7/)
