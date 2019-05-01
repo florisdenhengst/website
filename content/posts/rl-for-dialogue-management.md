@@ -1,5 +1,6 @@
 ---
 title: "How Reinforcement Learning is Applied to Dialogue Control"
+slug: rl-for-dialog-management
 date: 2019-02-15T12:41:16+01:00
 tags: [Tutorial, Dialog Systems, Reinforcement Learning, POMDP]
 draft: false

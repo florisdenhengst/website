@@ -14,4 +14,4 @@ To top it all off, the course was held in the lovely location (see picture) and 
 minds from all over The Netherlands. Great course for first-year PhD in information systems
 research.
 
-![Landgoed Huize Bergen](imgs/rm-in-iks/landgoed_huize_bergen.jpg)
+![Landgoed Huize Bergen](/imgs/rm-in-iks/landgoed_huize_bergen.jpg)

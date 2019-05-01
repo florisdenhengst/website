@@ -42,3 +42,7 @@ but what to work on *now*.
 In summary, my vision on the matter is a bit more humble than Prof. Sutton's extremist stance:
 in determining what to work on, AI researchers should take into account the practical
 applicability now while considering implications to general approaches on the long run.
+
+## Updates
+* 2019/04/25: UvA's Deep Learning guru Max Welling has posted a
+  [response](https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Model-versus-Data-AI.pdf) as well.
