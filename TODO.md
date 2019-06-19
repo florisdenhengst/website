@@ -35,10 +35,24 @@
     * Do a survey with someone who'd like to work on this
   * Something on RL?
 * Random idea snippets page?
-  * An app that lets you keep track of your phrasings
+  * Incrementally learning models for RL (incremental GBM?)
+    * How to explore ? <- use some model of uncertainty
+  * 
+  * Active Learning for RL -> when rewards need to be collected from a human?
+    * When there is a single reward at the end of an episode such as in dialogue systems
+      * Other examples?
+      * Combine with ongoing rewards
+    * Relation to fitness function being human/user-defined in EA's
+    * Need to have some sort of
+  * A data science project to predict 'negatief reisadvies' based on news / twitter
+    * NER to identify news items on countries / regions
+    * history of negatief reisadviezen:
+      * e.g. [Twitter](https://twitter.com/search?l=&q=Reisadvies%20from%3A247BZ%20until%3A2016-01-01&src=typd)
+  * An app that lets you keep track of your phrasings & proposes common mistakes
   * An app that suggests alternative wording in papers
   * An app that analyses your writing and compares it with a target venue
   * An app to keep track of words / sentences you've encountered and liked and used
+  * An app/plugin that selects the 'best' google scholar citation e.g. no arxiv etc.
   * Parallelized Dynamic Time Warping
   * Personalized Vocabulary Notebook
   * Parallel Dynamic Time Warping + kNN as a replacement for recurrent nets
