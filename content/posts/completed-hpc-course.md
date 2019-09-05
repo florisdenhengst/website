@@ -1,6 +1,7 @@
 ---
 title: "Completed HPC Course"
 date: 2018-11-29T09:18:55+01:00
+tags: [Courses, ]
 draft: false
 ---
 

@@ -37,7 +37,7 @@
 * Random idea snippets page?
   * Incrementally learning models for RL (incremental GBM?)
     * How to explore ? <- use some model of uncertainty
-  * 
+  * Feature importance estimation using RL?
   * Active Learning for RL -> when rewards need to be collected from a human?
     * When there is a single reward at the end of an episode such as in dialogue systems
       * Other examples?
