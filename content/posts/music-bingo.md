@@ -11,10 +11,10 @@ probably one of the most boring party games out there as the only 'skills' invol
 and bookkeeping.
 
 *Music* bingo, however, puts a nice twist to the original game that makes it more
-fun, exciting and skill-based. Music bingo is like regular bingo with two small differences that
+fun, exciting and skill-based. Music bingo is like regular bingo with some minor differences that
 make it just so much more fun. The first difference is in the bingo cards: these consist of a grid
-of cells but each cell contains a song title instead of a number. Instead of drawing random
-numbers from a tumbler, songs are played. If a song is played, it can be marked on the card and once a player has five marked cells in a row, they shout 'BINGO!' and collect their prize.
+of cells like in regular bingo but each cell contains a song title instead of a number. Instead of drawing random
+numbers from a tumbler, songs are played from a (randomized) playlist. If a song is played, it can be marked on the card and once a player has five marked cells in a row, they shout 'BINGO!' and collect their prize.
 
 In this blog post I will describe how to organise a music bingo.  Some coding is required for now,
 but I might come back to this fun topic and create some tooling for non-tech-savvy music bingo
@@ -46,7 +46,7 @@ Some additional hints regarding the playlist:
 
 * Think about the length of the playlist up-front. The length of your playlist depends on two
   factors: total event time and playtime per song. I found that about 30 seconds playtime per song
-  is suitable. This means that you'll have about 1 hour net playtime if you have 150 songs in your
+  is suitable. This means that you'll have about 1 hour net playtime if you have 120 songs in your
   playlist. This is excluding time to verify bingos, introduce the game and prizes and breaks.
 * make sure you deduplicate your playlist. There are online tools to do this for you, [Spotify
   Deduplicator](https://jmperezperez.com/spotify-dedup/) for example.
@@ -77,21 +77,29 @@ I added print-specific CSS styling to ensure that a single bingo card does not e
 in print. You can see how the bingo cards turn out
 [here](http://htmlpreview.github.io/?https://raw.githubusercontent.com/florisdenhengst/music-bingo/master/cards.html).
 
-# List of all songs
+# List all songs
 During the event, many people will have a bingo at once. As you might not want to rely on your own
 memory for verifying which songs have been played already, it helps to have a list available to
 check off songs that have been played. You can simply create the export you have created before. I
 added an extra column to keep track of songs played so far
 ```
 playlist_order,     track_id,       track_name,     played?,    .....
-             1,           32,      Never Alone,           x,    .....
-             2,          104,       What's Up?,            ,    .....
+             1,           32,    "Never Alone",           x,    .....
+             2,          104,     "What's Up?",            ,    .....
 ```
-Use this list in Excel or OpenOffice and you'll verify in no time. Use the auto-filter to quickly check whether the crossed of songs have actually been played.
+Use this list in Excel or OpenOffice and you'll verify a bingo in no time. Use the auto-filter to quickly check whether the crossed of songs have actually been played.
 
 That's it! You're all set to have a great bingo night.
 
-# Details
+# Get creative
+You can get creative as well. Here are some ideas:
+
+* Put the artist rather than song title on the card.
+* If a song became well-known due to a movie, put the movie title on the card
+* Put part of the lyrics on the card
+* Mix it up and make cards with song titles, artist, album name, lyrics, movie titles etc.
+
+# Things to consider
 The success of the bingo night depends on a good preparation.
 Here are some things to consider:
 
