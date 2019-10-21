@@ -1,7 +1,7 @@
 ---
 title: "How to Create a Music Bingo in Minutes"
 date: 2019-09-05T15:39:37+02:00
-tags: [Bingo, ]
+tags: [Bingo, tutorial]
 draft: false 
 ---
 
