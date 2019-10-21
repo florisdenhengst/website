@@ -108,4 +108,6 @@ intention in the dialog state. This generalization is referred to as a Partially
 (POMDP) and adds the notion of observations to the MDP. Stay tuned for more on POMDPs and RL
 algorithms!
 
+*Update*: see [this post](/posts/personalized-dm) if you're interested in the usage of RL for *personalization* of the dialogue control 
+
 [^1]: Check out the outcomes of the Dialog State Tracking Challenges: DSTC [2 \& 3](http://camdial.org/~mh521/dstc/), [4](http://www.colips.org/workshop/dstc4/),  [5](http://workshop.colips.org/dstc5/), [6](http://workshop.colips.org/dstc6/),  [7](http://workshop.colips.org/dstc7/)
