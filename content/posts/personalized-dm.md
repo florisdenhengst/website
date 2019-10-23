@@ -15,12 +15,13 @@ associated costs. Compare this to a person who already has a mortgage and is loo
 mortgage transfer. They will be quite aware of the terminology involved and may already have done
 some research on the subject.
 
-Preferences of individual users may differ in ways and it
+Capabilities, desires and preferences of individual chatbot users may differ in many ways and it
 may not always be clear upfront how the chatbot should respond to these differences in order to
-*personalize* the user experience.
-In the [paper](/publications/wi19.pdf), we compare two novel approaches to personalized dialogue
-management. Both approaches use RL to model the preferences of (groups of) individual users. We
-trained and evaluated the approaches in a large benchmark of different algorithms.
+*personalize* the user experience. In these cases, the only resort is to respond to feedback from
+users in order to do so.  In the [paper](/publications/wi19.pdf), we compare two novel approaches
+to personalized dialogue management. Both approaches use RL to personalize the user experience
+based on experience with individual users. We trained and evaluated the approaches in a large
+benchmark of different algorithms.
 
 It turns out that learning approaches can respond to differences in user behavior effectively and
 personalize the user experience. What's more, it turns out that these approaches perform equal or
