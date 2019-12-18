@@ -1,5 +1,5 @@
 ---
-title: "Features in Villamedia Blog"
+title: "Featured in Villamedia Blog"
 date: 2019-12-18T14:39:21+01:00
 draft: false
 tags: [media,]
