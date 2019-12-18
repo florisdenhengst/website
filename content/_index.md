@@ -46,7 +46,6 @@ _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_, June 20
 Current:
 
 * Floris Turkenburg, Msc. thesis
-* Tim Nederveen, Msc. thesis
 
 Past:
 * Mickey van Zeelt, "Gathering External Evaluations on Chatbot Conversations", Msc. thesis
