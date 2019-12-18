@@ -49,7 +49,8 @@ Current:
 * Tim Nederveen, Msc. thesis
 
 Past:
-
-* Rob Wanders "Predicting number of transactions with Echo State Networks", BA paper
-* Luca Simonetto "Generating spiking time series with Generative Adversarial Networks: an application on banking transactions", Msc. thesis
+* Mickey van Zeelt, "Gathering External Evaluations on Chatbot Conversations", Msc. thesis
+* Tim Nederveen, "Reducing Expert Interference in Time Series Anomaly Detection Model Re-evaluations", Msc. thesis
+* Rob Wanders "Predicting Number of Transactions with Echo State Networks", BA paper
+* Luca Simonetto "Generating Spiking Time Series with Generative Adversarial Networks: an Application on Banking Transactions", Msc. thesis
 * Ilse Goedhart "Predicting IT Performance using Quantile Regression", BA paper

@@ -2,6 +2,7 @@
 title: "Bitter Lesson Response"
 date: 2019-03-20T23:27:28+01:00
 draft: false
+tags: [reinforcement learning, media]
 ---
 
 A couple of days ago, RL founding father Rich Sutton posted a [blog

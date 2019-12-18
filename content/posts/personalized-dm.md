@@ -6,8 +6,8 @@ tags: [publication, dialog systems, personalization, reinforcement learning, pom
 ---
 
 In a [previous post](/posts/rl-for-dialog-management) I explained how reinforcement
-learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals. I recently presented our paper on
-    personalized dialog management at the [Web Intelligence](http://localhost:1313/posts/rl-for-dialog-management/) in Thessaloniki, a conference where only 19% of all submitted papers were accepted as full paper.
+learning (RL) can be used to make chatbots better from its experience with users. RL allows chatbots to learn what to say by interacting with users. This allows for chatbots to tailor their behavior to preferences of groups of individuals, e.g. to *personalize* the interaction. I recently presented our paper on
+    this topic, specifically on personalized dialog management at the [Web Intelligence](https://webintelligence2019.com/) conference in Thessaloniki. In this conference, only 19% of all submitted papers were accepted as full paper. I'll briefly describe the main contributions of the paper here.
 
 In many domains, including financial services and banking, some users may be able to express their needs and preferences crisply whereas others have more difficulty in doing so. As an example, consider someone looking to finance their first
 home. They will not know much about duration of the mortgages, adjustable and fixed-rate and
@@ -28,9 +28,9 @@ personalize the user experience. What's more, it turns out that these approaches
 better than a previous hand-coded gold standard. Which of the two learning approaches works best
 depends on the complexity of the task and the available data.
 
-Next steps may include an evaluation on more realistic data and ensuring that the chatbots only
+Next steps may include an evaluation on more realistic data, ensuring that the chatbots only
 makes recommendations after having checked e.g. the [risk
-profile](https://www.investopedia.com/terms/r/risk-profile.asp) and ensures that the
+profile](https://www.investopedia.com/terms/r/risk-profile.asp) and check that the
 recommendation is understood by the user.
 
 
