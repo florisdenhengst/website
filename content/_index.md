@@ -1,12 +1,11 @@
 ---
-title: "Home"
+title: "Everything Flo's"
 date: 2018-12-24T16:38:25+01:00
 ---
 
-# Floris den Hengst
 <img src="/imgs/flopic.jpg" style="max-width:20%;min-width:40px;float:right;padding:0 0 1em 1em;" alt="Picture of Floris" />
 
-I am a PhD. student in the [Computational Intelligence](https://www.cs.vu.nl/ci/) and [Knowledge
+My name is Floris den Hengst and I am a PhD. student in the [Computational Intelligence](https://www.cs.vu.nl/ci/) and [Knowledge
 Representation & Reasoning](https://krr.cs.vu.nl/) groups of the Vrije Universiteit Amsterdam and
 in ING's Tech R&D department. I am interested in adaptivity v.s. control in learning systems,
 knowledge representation and language systems.
