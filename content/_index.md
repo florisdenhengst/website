@@ -44,6 +44,7 @@ _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_, June 20
 ## Student supervision
 Current:
 
+* Michal Nauman, Msc. thesis
 * Floris Turkenburg, Msc. thesis
 
 Past:
