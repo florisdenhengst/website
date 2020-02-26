@@ -7,8 +7,9 @@ date: 2018-12-24T16:38:25+01:00
 
 My name is Floris den Hengst and I am a PhD. student in the [Computational Intelligence](https://www.cs.vu.nl/ci/) and [Knowledge
 Representation & Reasoning](https://krr.cs.vu.nl/) groups of the Vrije Universiteit Amsterdam and
-in ING's Tech R&D department. I am interested in adaptivity v.s. control in learning systems,
-knowledge representation and language systems.
+ING's [AI for FinTech Research](https://se.ewi.tudelft.nl/ai4fintech/). I am
+interested in adaptivity v.s. control in learning systems, knowledge
+representation and language systems.
 
 My PhD research is targeted at making Reinforcement Learning agents comply to regulations.
 Adaptivity can be of huge benefit in highly regulated domains such as healthcare and finance. In
