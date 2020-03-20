@@ -33,6 +33,10 @@ use an adaptive conversational agent for financial advice to investigate these i
   Officially titled `Lifestyle Informatics' at the time
 
 ## Publications
+* van Zeelt, Mickey and den Hengst, Floris and Hashemi, Seyyed Hadi,
+  "Collecting High Quality Dialogue User Satisfaction Ratings with Third-Party Annotators."
+  *Proceedings of the 2020 Conference on Human Information Interaction and Retrieval.*,
+  363-367 [bib](/publications/van2020collecting.bib)
 * den Hengst, Floris and Hoogendoorn, Mark and van Harmelen, Frank and Bosman, Joost,
   "Reinforcement Learning for Personalized Dialogue Management". *2019 IEEE/WIC/ACM International
   Conference on Web Intelligence (WI)*, 59-76, [pdf](/publications/wi19.pdf) [bib](/publications/wi19.bib)
@@ -45,6 +49,7 @@ _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_, June 20
 ## Student supervision
 Current:
 
+* Azamat Omuraliev, Msc. thesis
 * Michal Nauman, Msc. thesis
 * Floris Turkenburg, Msc. thesis
 
