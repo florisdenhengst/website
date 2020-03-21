@@ -39,6 +39,7 @@ theme = "metis"
         "[<img src='https://simpleicons.org/icons/rss.svg'>](/index.xml)",
         "[<img src='https://simpleicons.org/icons/github.svg'>](https://github.com/florisdenhengst/)",
         "[<img src='https://simpleicons.org/icons/linkedin.svg'>](https://www.linkedin.com/in/floris-den-hengst-06ab7534/)",
+        "[<img src='/imgs/orcid.svg'>](https://orcid.org/0000-0002-2092-9904)",
         "[<img src='/imgs/gscholar.png'>](https://scholar.google.nl/citations?user=8I8iSHkAAAAJ)",
         "| Created with [Hugo](https://gohugo.io) and [Metis](https://florisdenhengst.github.io/metis-example/) theme | &copy; [Floris den Hengst](https://florisdenhengst.github.io) 2018 -- 2020", 
         ]
