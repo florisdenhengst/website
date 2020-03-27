@@ -5,7 +5,7 @@ draft: false
 tags: [publication, dialog systems,]
 ---
 
-Mickey, a master student I was co-supervising, recently published [a paper](https://doi-org.vu-nl.idm.oclc.org/10.1145/3343413.3377998) based on his thesis work in ACM's Conference for Human Information Interaction and Retrieval. His work focused on interfaces for collecting high-quality user satisfaction ratings for dialogue systems.
+Mickey, a master student I was co-supervising, recently published [a paper](https://doi.org/10.1145/3343413.3377998) based on his thesis work in ACM's Conference for Human Information Interaction and Retrieval. His work focused on interfaces for collecting high-quality user satisfaction ratings for dialogue systems.
 
 User satisfaction is an important indicator in the design, evaluation and [adaptation](/posts/personalized-dm) of dialogue systems.
 Establishing user satisfaction ratings for conversation-based systems, however, remains challenging.
