@@ -24,7 +24,7 @@ use an adaptive conversational agent for financial advice to investigate these i
 
 ## Experience
 * PhD student, [Vrije Universiteit
-  Amsterdam](https://www.cs.vu.nl/ci/index.php/constrained-reinforcement-learning-for-personalization-in-highly-regulated-domains/) and [ING](https://www.ing.com/), current
+  Amsterdam](https://www.cs.vu.nl/ci/index.php/constrained-reinforcement-learning-for-personalization-in-highly-regulated-domains/) and [ING](https://icai.ai/ai-for-fintech-lab/), current
 * Software Engineer, [Crunchr](https://www.crunchrapps.com), 2014 - 2017
 * Msc. Artificial Intelligence, Cum Laude, Vrije Universiteit Amsterdam, 2013 - 2016
 * Web Developer, [Zilt&Co](https://www.ziltenco.nl), 2009 - 2014
