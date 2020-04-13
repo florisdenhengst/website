@@ -23,24 +23,35 @@ actions? How does constraining a RL agent impact its learning capabilities? In t
 use an adaptive conversational agent for financial advice to investigate these issues.
 
 ## Experience
-* PhD student, [Vrije Universiteit
-  Amsterdam](https://www.cs.vu.nl/ci/index.php/constrained-reinforcement-learning-for-personalization-in-highly-regulated-domains/) and [ING](https://icai.ai/ai-for-fintech-lab/), current
-* Software Engineer, [Crunchr](https://www.crunchrapps.com), 2014 - 2017
-* Msc. Artificial Intelligence, Cum Laude, Vrije Universiteit Amsterdam, 2013 - 2016
-* Web Developer, [Zilt&Co](https://www.ziltenco.nl), 2009 - 2014
-* Various teaching- and research assistant positions, 2009 - 2014
-* Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 - 2013   
+PhD student, [Vrije Universiteit
+Amsterdam](https://www.cs.vu.nl/ci/index.php/constrained-reinforcement-learning-for-personalization-in-highly-regulated-domains/) and [ING](https://icai.ai/ai-for-fintech-lab/), current
+
+Software Engineer, [Crunchr](https://www.crunchrapps.com), 2014 - 2017
+
+Msc. Artificial Intelligence, Cum Laude, Vrije Universiteit Amsterdam, 2013 - 2016
+
+Web Developer, [Zilt&Co](https://www.ziltenco.nl), 2009 - 2014
+
+Various teaching- and research assistant positions, 2009 - 2014
+
+Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 - 2013   
   Officially titled `Lifestyle Informatics' at the time
 
 ## Publications
-* van Zeelt, Mickey and den Hengst, Floris and Hashemi, Seyyed Hadi,
-  "Collecting High Quality Dialogue User Satisfaction Ratings with Third-Party Annotators."
-  *Proceedings of the 2020 Conference on Human Information Interaction and Retrieval.*,
-  363-367 [bib](/publications/van2020collecting.bib)
-* den Hengst, Floris and Hoogendoorn, Mark and van Harmelen, Frank and Bosman, Joost,
-  "Reinforcement Learning for Personalized Dialogue Management". *2019 IEEE/WIC/ACM International
-  Conference on Web Intelligence (WI)*, 59-76, [pdf](/publications/wi19.pdf) [bib](/publications/wi19.bib)
-* Floris den Hengst - Detecting Interesting Outliers: Active Learning for Anomaly Detection,
+den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark,
+"Reinforcement Learning for Personalization: A Systematic Literature Review".
+*Data Science* (to appear) [doi](https://doi.org/10.3233/DS-200028)
+
+van Zeelt, Mickey and den Hengst, Floris and Hashemi, Seyyed Hadi,
+"Collecting High Quality Dialogue User Satisfaction Ratings with Third-Party Annotators."
+*Proceedings of the 2020 Conference on Human Information Interaction and Retrieval.*,
+363-367 [bib](/publications/van2020collecting.bib) [doi](https://doi.org/10.1145/3343413.3377998)
+
+den Hengst, Floris and Hoogendoorn, Mark and van Harmelen, Frank and Bosman, Joost,
+"Reinforcement Learning for Personalized Dialogue Management". *2019 IEEE/WIC/ACM International
+Conference on Web Intelligence (WI)*, 59-76, [pdf](/publications/wi19.pdf) [bib](/publications/wi19.bib) [doi](https://doi.org/10.1145/3350546.3352501)
+
+Floris den Hengst - Detecting Interesting Outliers: Active Learning for Anomaly Detection,
 _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_, June 2016,
 [pdf](publications/masterthesis_floris_den_hengst.pdf)  
   Presented as poster at BNAIC 2016, [pdf](publications/bnaic17poster.pdf)

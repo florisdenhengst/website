@@ -33,5 +33,9 @@ makes recommendations after having checked e.g. the [risk
 profile](https://www.investopedia.com/terms/r/risk-profile.asp) and check that the
 recommendation is understood by the user.
 
+**Update 2020-04-09**: Interested in reinforcement learning and personalization outside of
+dialogue management? Have a look at the literature study we did on this in [this
+post](/posts/rl-for-pers-survey/).
+
 
 ![logo Web Intelligence 2019](/imgs/personalized-dm/wi-19-logo.png)
