@@ -31,6 +31,6 @@ check out the plot below, which shows the number of papers that report on using 
 personalization task over time. Note that data was collected June 1st and only covers the last
 year partially. It is clear that RL is becoming more and more popular.
 
-The [paper]() can be accessed at [Data Science](https://www.iospress.nl/journal/data-science/) journal.
+The [paper](https://doi.org/10.3233/DS-200028) can be accessed at [Data Science](https://www.iospress.nl/journal/data-science/) journal.
 
 ![Paper volume per year](/imgs/rl-for-pers-survey/paper_volume_per_year.png)
