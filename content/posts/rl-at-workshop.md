@@ -1,5 +1,5 @@
 ---
-title: "RL for Real Life Poster"
+title: "Reinforcement Learning for Real Life Virtual Conference"
 date: 2020-06-25T21:14:18+02:00
 draft: false
 tags: [reinforcement learning, publication, personalization]
