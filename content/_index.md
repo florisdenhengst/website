@@ -38,18 +38,18 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
   Officially titled `Lifestyle Informatics' at the time
 
 ## Publications
-den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark,
+Den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark,
 "Reinforcement Learning for Personalization: A Systematic Literature Review".
 *Data Science* (to appear)  
 [doi](https://doi.org/10.3233/DS-200028)
 
-van Zeelt, Mickey and den Hengst, Floris and Hashemi, Seyyed Hadi,
+Van Zeelt, Mickey and Den Hengst, Floris and Hashemi, Seyyed Hadi,
 "Collecting High Quality Dialogue User Satisfaction Ratings with Third-Party Annotators."
 *Proceedings of the 2020 Conference on Human Information Interaction and Retrieval.*,
 363-367  
 [doi](https://doi.org/10.1145/3343413.3377998) [bib](/publications/van2020collecting.bib) 
 
-den Hengst, Floris and Hoogendoorn, Mark and van Harmelen, Frank and Bosman, Joost,
+Den Hengst, Floris and Hoogendoorn, Mark and Van Harmelen, Frank and Bosman, Joost,
 "Reinforcement Learning for Personalized Dialogue Management". *2019 IEEE/WIC/ACM International
 Conference on Web Intelligence (WI)*, 59-76  
 [doi](https://doi.org/10.1145/3350546.3352501) [bib](/publications/wi19.bib) [pdf](/publications/wi19.pdf) 
