@@ -15,4 +15,6 @@ be submitted up-front. Poster presenters are to host their own video channel. Th
 sessions start at times convenient to the US Atlantic and Pacific coast.
 
 Our [survey](/posts/rl-for-pers-survey/) of reinforcement learning (RL)-based approaches to
-personalization is included as a poster.
+personalization is included as a `poster':
+<iframe src="https://archive.org/embed/rlfor-real-life-2020" width="640" height="480"
+frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
