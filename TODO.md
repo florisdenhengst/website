@@ -35,6 +35,13 @@
     * Do a survey with someone who'd like to work on this
   * Something on RL?
 * Random idea snippets page?
+  * Learning interpretable reward functions.
+    * First learn an explicit (immediate) reward function as in Michal's thesis using a deep
+      neural net
+    * Then learn a symbolic meta-model of this reward function. This gives insight into what the
+      model has learned
+    * The insights can be used to inform human decision-makers. We can learn what the model thinks
+      is important (e.g. work of Russel on value alignment etc.)
   * Incrementally learning models for RL (incremental GBM?)
     * How to explore ? <- use some model of uncertainty
   * Feature importance estimation using RL?
@@ -65,6 +72,12 @@
 * Canvas for RL
   * Similar to all types of canvases in project management etc.
   * E.g. Machine Learning Canvas
+* PostgreSQL query planning
+  * Currently uses genetic algorithm for join plan for large number of joins
+  * Could be improved using the data & RL
+  * Adaptive setting: https://www.pgcon.org/2017/schedule/events/1086.en.html
+  * On Query Optimizers: https://www.vldb.org/pvldb/vol9/p204-leis.pdf
+  * HN Thread: https://news.ycombinator.com/item?id=23826295
 * parallize largest_number project
 * Analogy of read speeds:
   * L1 Cache,1 seconds,grab a piece of paper and look at it

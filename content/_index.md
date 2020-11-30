@@ -40,8 +40,8 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
 ## Publications
 Den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark,
 "Reinforcement Learning for Personalization: A Systematic Literature Review".
-*Data Science* (to appear)  
-[doi](https://doi.org/10.3233/DS-200028)
+*Data Science* (2020) [doi](https://doi.org/10.3233/DS-200028)  
+Presented at [RL for Real Life conference](https://sites.google.com/view/RL4RealLife)
 
 Van Zeelt, Mickey and Den Hengst, Floris and Hashemi, Seyyed Hadi,
 "Collecting High Quality Dialogue User Satisfaction Ratings with Third-Party Annotators."
@@ -62,11 +62,11 @@ _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_, June 20
 ## Student supervision
 Current:
 
-* Azamat Omuraliev, Msc. thesis
-* Michal Nauman, Msc. thesis
 * Floris Turkenburg, Msc. thesis
 
 Past:
+* Michal Nauman, ["Low-Variance Policy Gradient Estimation with World Models"](https://arxiv.org/abs/2010.15622), Msc. thesis
+* Azamat Omuraliev, "Reinforcement Learning for Controllable Text Summarization", Msc. thesis
 * Mickey van Zeelt, "Gathering External Evaluations on Chatbot Conversations", Msc. thesis
 * Tim Nederveen, "Reducing Expert Interference in Time Series Anomaly Detection Model Re-evaluations", Msc. thesis
 * Rob Wanders "Predicting Number of Transactions with Echo State Networks", BA paper
