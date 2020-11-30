@@ -41,7 +41,7 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
 Den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark,
 "Reinforcement Learning for Personalization: A Systematic Literature Review".
 *Data Science* (2020) [doi](https://doi.org/10.3233/DS-200028)  
-Presented at [RL for Real Life conference](https://sites.google.com/view/RL4RealLife)
+Presented at [RL for Real Life conference 2020](https://sites.google.com/view/RL4RealLife), presented at [BNAIC 2020](https://bnaic.liacs.leidenuniv.nl/)
 
 Van Zeelt, Mickey and Den Hengst, Floris and Hashemi, Seyyed Hadi,
 "Collecting High Quality Dialogue User Satisfaction Ratings with Third-Party Annotators."
