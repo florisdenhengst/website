@@ -5,7 +5,7 @@ date: 2018-12-24T16:38:25+01:00
 
 <img src="/imgs/flopic.jpg" style="max-width:20%;min-width:40px;float:right;padding:0 0 1em 1em;" alt="Picture of Floris" />
 
-My name is Floris den Hengst and I am a PhD. student in the [Computational Intelligence](https://www.cs.vu.nl/ci/) and [Knowledge
+My name is Floris den Hengst and I am a PhD. student in the [Quantitative Data Analytics](https://www.qda.cs.vu.nl) and [Knowledge
 Representation & Reasoning](https://krr.cs.vu.nl/) groups of the Vrije Universiteit Amsterdam and
 ING's [AI for FinTech Research](https://se.ewi.tudelft.nl/ai4fintech/). I am
 interested in adaptivity v.s. control in learning systems, knowledge
