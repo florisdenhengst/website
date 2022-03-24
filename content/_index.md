@@ -1,6 +1,5 @@
 ---
 title: "Everything Flo's"
-date: 2018-12-24T16:38:25+01:00
 ---
 
 <img src="/imgs/flopic.jpg" style="max-width:20%;min-width:40px;float:right;padding:0 0 1em 1em;" alt="Picture of Floris" />
@@ -38,6 +37,11 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
   Officially titled `Lifestyle Informatics' at the time
 
 ## Publications
+Den Hengst, Floris and François-Lavet, Vincent and Hoogendoorn, Mark and Van Harmelen, Frank,
+"Planning for potential: efficient safe reinforcement learning".
+*Machine Learning*, Springer (2022) [doi](https://doi.org/10.1007/s10994-022-06143-6) [pdf](https://link.springer.com/content/pdf/10.1007/s10994-022-06143-6.pdf)
+
+
 Den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark,
 "Reinforcement Learning for Personalization: A Systematic Literature Review".
 *Data Science* (2020) [doi](https://doi.org/10.3233/DS-200028)  
@@ -61,10 +65,12 @@ _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_, June 20
 
 ## Student supervision
 Current:
-
-* Floris Turkenburg, Msc. thesis
+* Stefan Petrescu, Msc. thesis
+* Haritha Jayaraman, Msc. thesis
 
 Past:
+* Yannick Smit, "Strategic Workforce Planning with Deep Reinforcement Learning", Msc. thesis
+* Claudia-Violeta Grigorias, "Learning safe behaviours with dynamic hyperparameters in Reinforcement Learning", Bsc. thesis
 * Michal Nauman, ["Low-Variance Policy Gradient Estimation with World Models"](https://arxiv.org/abs/2010.15622), Msc. thesis
 * Azamat Omuraliev, "Reinforcement Learning for Controllable Text Summarization", Msc. thesis
 * Mickey van Zeelt, "Gathering External Evaluations on Chatbot Conversations", Msc. thesis
