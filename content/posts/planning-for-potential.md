@@ -39,3 +39,5 @@ learners' capability. We found:
 * that we can tune its hyperparameter automatically by interacting with the environment
 
 The paper detailing these ideas and findings can be found in [Springer's Machine Learning](https://doi.org/10.1007/s10994-022-06143-6).
+
+![Planning for Potential Results](/imgs/p4p/p4p-results.png)
