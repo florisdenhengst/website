@@ -67,6 +67,7 @@ _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_, June 20
 Current:
 * Stefan Petrescu, Msc. thesis
 * Haritha Jayaraman, Msc. thesis
+* Daniel van der Riet, Msc. thesis
 
 Past:
 * Yannick Smit, "Strategic Workforce Planning with Deep Reinforcement Learning", Msc. thesis
