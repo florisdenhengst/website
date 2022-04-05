@@ -39,7 +39,7 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
 ## Publications
 Den Hengst, Floris and François-Lavet, Vincent and Hoogendoorn, Mark and Van Harmelen, Frank,
 "Planning for potential: efficient safe reinforcement learning".
-*Machine Learning*, Springer (2022) [doi](https://doi.org/10.1007/s10994-022-06143-6) [pdf](https://link.springer.com/content/pdf/10.1007/s10994-022-06143-6.pdf)
+*Machine Learning*, Springer (2022) [doi](https://doi.org/10.1007/s10994-022-06143-6) [bib](/publications/mlj22.bib) [pdf](https://link.springer.com/content/pdf/10.1007/s10994-022-06143-6.pdf)
 
 
 Den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark,
