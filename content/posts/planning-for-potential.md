@@ -2,6 +2,7 @@
 title: "Safe and Efficient Reinforcement Learning with Planning for Potential"
 date: 2022-03-24T10:38:24+01:00
 draft: false
+tags: [reinforcement learning, publication]
 ---
 
 Reinforcement Learning has proven to be capable of outperforming humans on
