@@ -39,17 +39,20 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
 ## Publications
 Den Hengst, Floris and François-Lavet, Vincent and Hoogendoorn, Mark and Van Harmelen, Frank,
 "Reinforcement Learning with Option Machines".
-*to appear at [IJCAI](https://www.ijcai.org)* (2022) [pdf](/publications/ijcai22-option-machines.pdf)
+*to appear at [IJCAI](https://www.ijcai.org)* (2022)  
+[pdf](/publications/ijcai22-option-machines.pdf)
 
 Den Hengst, Floris and François-Lavet, Vincent and Hoogendoorn, Mark and Van Harmelen, Frank,
 "Planning for potential: efficient safe reinforcement learning".
-*Machine Learning*, Springer (2022) [doi](https://doi.org/10.1007/s10994-022-06143-6) [bib](/publications/mlj22.bib) [pdf](https://link.springer.com/content/pdf/10.1007/s10994-022-06143-6.pdf)
-
+*Machine Learning*, Springer (2022)  
+Presented at [BeNeRL 2022](https://rlg.liacs.nl/benerl-2022)  
+[doi](https://doi.org/10.1007/s10994-022-06143-6) [bib](/publications/mlj22.bib) [pdf](https://link.springer.com/content/pdf/10.1007/s10994-022-06143-6.pdf) [poster](/publications/p4p-poster.pdf)
 
 Den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark,
 "Reinforcement Learning for Personalization: A Systematic Literature Review".
-*Data Science* (2020) [doi](https://doi.org/10.3233/DS-200028)  
-Presented at [RL for Real Life conference 2020](https://sites.google.com/view/RL4RealLife), presented at [BNAIC 2020](https://bnaic.liacs.leidenuniv.nl/)
+*Data Science* (2020)  
+Presented at [RL for Real Life conference 2020](https://sites.google.com/view/RL4RealLife), presented at [BNAIC 2020](https://bnaic.liacs.leidenuniv.nl/)  
+[doi](https://doi.org/10.3233/DS-200028) [bib](/publications/rl4personalization.bib)
 
 Van Zeelt, Mickey and Den Hengst, Floris and Hashemi, Seyyed Hadi,
 "Collecting High Quality Dialogue User Satisfaction Ratings with Third-Party Annotators."

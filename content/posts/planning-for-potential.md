@@ -42,3 +42,6 @@ learners' capability. We found:
 The paper detailing these ideas and findings can be found in [Springer's Machine Learning](https://doi.org/10.1007/s10994-022-06143-6).
 
 ![Planning for Potential Results](/imgs/p4p/p4p-results.png)
+
+*Update 2022-06-02*: Accepted as extended abstract at IJCAI-ECAI-2022's [Workshop on Safe RL](https://sites.google.com/view/safe-rl-2022).  
+*Update 2022-06-07*: Presented as [poster](/publications/p4p-poster.pdf) at [BeNeRL 2022](https://rlg.liacs.nl/benerl-2022).
