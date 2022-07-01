@@ -37,6 +37,11 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
   Officially titled `Lifestyle Informatics' at the time
 
 ## Publications
+Smit, Yannick and den Hengst, Floris and Bhulai, Sandjai and Mehdad, Ehsan,
+"Strategic Workforce Planning with Deep Reinforcement Learning".
+*to appear at [LOD](https://lod2022.icas.cc/)* (2022)  
+[pdf](/publications/Workforce_Planning_with_Deep_Reinforcement_Learning__preprint_.pdf)
+
 Den Hengst, Floris and François-Lavet, Vincent and Hoogendoorn, Mark and Van Harmelen, Frank,
 "Reinforcement Learning with Option Machines".
 *to appear at [IJCAI](https://www.ijcai.org)* (2022)  
