@@ -51,7 +51,7 @@ Den Hengst, Floris and François-Lavet, Vincent and Hoogendoorn, Mark and Van Ha
 "Planning for potential: efficient safe reinforcement learning".
 *Machine Learning*, Springer (2022)  
 Presented at [BeNeRL 2022](https://rlg.liacs.nl/benerl-2022)  
-[doi](https://doi.org/10.1007/s10994-022-06143-6) [bib](/publications/mlj22.bib) [pdf](https://link.springer.com/content/pdf/10.1007/s10994-022-06143-6.pdf) [poster](/publications/p4p-poster.pdf)
+[doi](https://doi.org/10.1007/s10994-022-06143-6) [bib](/publications/mlj22.bib) [pdf](https://link.springer.com/content/pdf/10.1007/s10994-022-06143-6.pdf)
 
 Den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark,
 "Reinforcement Learning for Personalization: A Systematic Literature Review".
@@ -62,17 +62,17 @@ Presented at [RL for Real Life conference 2020](https://sites.google.com/view/RL
 Van Zeelt, Mickey and Den Hengst, Floris and Hashemi, Seyyed Hadi,
 "Collecting High Quality Dialogue User Satisfaction Ratings with Third-Party Annotators."
 *Proceedings of the 2020 Conference on Human Information Interaction and Retrieval.*,
-363-367  
+363-367 (2020)  
 [doi](https://doi.org/10.1145/3343413.3377998) [bib](/publications/van2020collecting.bib) 
 
 Den Hengst, Floris and Hoogendoorn, Mark and Van Harmelen, Frank and Bosman, Joost,
 "Reinforcement Learning for Personalized Dialogue Management". *2019 IEEE/WIC/ACM International
-Conference on Web Intelligence (WI)*, 59-76  
+Conference on Web Intelligence (WI)*, 59-76 (2019)  
 [doi](https://doi.org/10.1145/3350546.3352501) [bib](/publications/wi19.bib) [pdf](/publications/wi19.pdf) 
 
 Floris den Hengst - Detecting Interesting Outliers: Active Learning for Anomaly Detection,
-_Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_, June 2016,  
-[pdf](publications/masterthesis_floris_den_hengst.pdf) [poster](publications/bnaic17poster.pdf)
+_Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_ (2016)   
+[pdf](publications/masterthesis_floris_den_hengst.pdf) 
 
 
 ## Student supervision

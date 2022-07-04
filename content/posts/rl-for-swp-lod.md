@@ -13,3 +13,6 @@ We show that the DRL approach enables optimizing an organizations' strategic wor
 
 Details and preprint will follow.
 
+*Update 2022-07-04*
+[Preprint](/publications/Workforce_Planning_with_Deep_Reinforcement_Learning__preprint_.pdf) is now available!
+
