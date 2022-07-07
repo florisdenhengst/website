@@ -79,9 +79,9 @@ _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_ (2016)
 Current:
 * Stefan Petrescu, Msc. thesis
 * Haritha Jayaraman, Msc. thesis
-* Daniel van der Riet, Msc. thesis
 
 Past:
+* Daniel van der Riet, "Safe Reinforcement Learning with a Learned Transition Function", Msc. thesis
 * Yannick Smit, "Strategic Workforce Planning with Deep Reinforcement Learning", Msc. thesis
 * Claudia-Violeta Grigorias, "Learning safe behaviours with dynamic hyperparameters in Reinforcement Learning", Bsc. thesis
 * Michal Nauman, ["Low-Variance Policy Gradient Estimation with World Models"](https://arxiv.org/abs/2010.15622), Msc. thesis
