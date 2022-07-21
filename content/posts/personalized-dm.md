@@ -40,5 +40,7 @@ post](/posts/rl-for-pers-survey/).
 *Update 2022-03-04*: In [this new paper](/posts/planning-for-potential/) we
 learn an optimal dialogue policy under safety constraints.
 
+*Update 2022-06-21*: In [this post](/posts/intro-to-gps/) I dive into the usage of Gaussian processes for (personalized) dialogue management.
+
 
 ![logo Web Intelligence 2019](/imgs/personalized-dm/wi-19-logo.png)

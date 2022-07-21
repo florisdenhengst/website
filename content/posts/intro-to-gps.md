@@ -1,12 +1,12 @@
 ---
-title: "Gaussian Processes and Reinforcement Learning"
-date: 2019-04-25T20:01:24+02:00
-draft: true
+title: "A Brief intro to Gaussian Processes"
+date: 2022-06-21T14:12:24+02:00
+draft: false
+tags: [reinforcement learning, tutorial]
 ---
 
 * Gaussian Processes are a fascinating tool for usage in RL due to modelling uncertainty and data efficiency
-* I have briefly introduced GP's and shown how/why they are used in RL and inspire for other
-  approaches
+* I briefly introduced GP's and shown how/why they are used in RL 
 
 Gaussian processes (GPs) are a fascinating tool in the machine learning toolbelt. They stand out
 for a couple of reasons: some people will like them for their data efficiency, others love them
@@ -73,14 +73,14 @@ A simple example of a GP is visualized in Figure 2. Here, \\(X = \mathbb{R}\\) a
  <img src="/imgs/gp-for-rl/MultivariateNormal.png"
       alt="3D visualization of a 2-variable jointly gaussian distribution"
       style="max-width:400px;"/>
- <figcaption>Figure 2. Data sampled from an example GP.[^multivar-normal]
+ <figcaption>Figure 2. Data sampled from an example GP. Plot taken from <a href="https://en.wikipedia.org/wiki/Multivariate_normal_distribution#/media/File:MultivariateNormal.png" target="_blank">Wikipedia</a>.
  </figcaption>
 </figure>
 This data is distributed according to
-a multivariate Gaussian with \\( \mu = \begin{bmatrix} 0 \\\\ 0 \end{bmatrix}\\) and
-\\(K =  \begin{bmatrix} 1 & 3 / 5 \\\\ 3 / 5 & 2 \end{bmatrix}\\). This distribution is a GP,
-since it consists of two random variables, \\(X\\) and \\(Y\\), that are distributed Gaussian
-together (joint). The random variables \\(X\\) and \\(Y\\) are Gaussian distributed
+a multivariate Gaussian with
+	$$\mu = \begin{bmatrix} 0 \\\\ 0 \end{bmatrix}, K =  \begin{bmatrix} 1 & 3 / 5 \\\\ 3 / 5 & 2 \end{bmatrix}.$$ This distribution is a GP,
+since it consists of two random variables, \(X\) and \(Y\), that are distributed Gaussian
+together (joint). The random variables \(X\) and \(Y\) are Gaussian distributed
 individually as well, so this example meets the definition. 
 
 Having checked the definition and a simple example of a GP, we now turn to some of the things you
@@ -153,7 +153,7 @@ Neat, we now have an expression of the *full distribution* over values to be pre
 This is something not many ml models offer out of the box. We can obtain a point-estimates with
 confidence intervals by looking at the expecation and standard deviation at a particular
 \\(y^\*\_i\\).  All we need now is to get our hands on a training set \\(X', y'\\) and some
-EVALUATion set of interest \\(X^\*\\) and make some estimate for the error term \\(\sigma^2\_n\\).
+*evaluation* set of interest \\(X^\*\\) and make some estimate for the error term \\(\sigma^2\_n\\).
 Oh, and we need to define which kernel \\(K\\) fits our domain well.
 
 ## Domain knowledge and kernels
@@ -185,18 +185,23 @@ sense to select the random walk or brownian motion kernel for modelling stock ma
       alt="Stock market example periodic prior"
       style="width:32%; min-width:250px;"/>
  <figcaption>Figure 4. Random samples from GPs with different priors (on the kernel): (a) an rbf
- kernel, (b) a random walk kernel and \(c) a periodic kernel. The prior expresses a pattern that
- is expected in the application domain.[^kernel-cookbook] 
+ kernel, (b) a random walk kernel and (c) a periodic kernel. The prior expresses a pattern that
+ is expected in the application domain. See the <a href="http://www.cs.toronto.edu/~duvenaud/cookbook/index.html" target="_blank">kernel cookbook</a> by David Duvenaud for more details on kernels.
  </figcaption>
 </figure>
 
+It is quite clear that the random walk kernel in Figure 4(b). So when doing an estimation of the stock price in the future, or in between sampled times, it would be a great idea to encode domain knowledge using that kernel.
 
-*TODO: Link back from rl-for-dialogue-management post*
+## Gaussian Processes and Reinforcement Learning
+Regression based on Gaussian processes can be used quite effectively within
+various Reinforcement Learning approaches. For example, when estimating
+transitions in model-based RL.[^pilco]
 
-*TODO: Link from rl for personalization post*
+Gaussian processes can also used to estimate \(V\) and \(Q\) functions within
+e.g. [dialogue management](/posts/personalized-dm) and for [personalization](/posts/rl-for-pers-survey/) with RL.
+
 
 [^gp-definition]: CE Rasmussen, CKI Williams, "Gaussian Processes for Machine Learning.", MIT Press, 2006
 [^conditioning-derivation]: [This](https://stats.stackexchange.com/a/30600) Stats Stack Exchange contains all the details for the derivation of the conditioning formula.
 [^3]: Note that this kind of regression where each random variable denotes a feature of the models is more akin to Bayesian Regression than to GPs. In GPs, random variables denote train and test points of the model.
-[^kernel-cookbook]: Make sure to check out the [Kernel Cookbook](http://www.cs.toronto.edu/~duvenaud/cookbook/index.html) by David Duvenaud
-[^multivar-normal]: Plot taken from  [Wikipedia](https://en.wikipedia.org/wiki/Multivariate_normal_distribution#/media/File:MultivariateNormal.png)
+[^pilco] See e.g. the [PILCO](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.7735&rep=rep1&type=pdf) approach
