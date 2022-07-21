@@ -44,8 +44,8 @@ Smit, Yannick and den Hengst, Floris and Bhulai, Sandjai and Mehdad, Ehsan,
 
 Den Hengst, Floris and François-Lavet, Vincent and Hoogendoorn, Mark and Van Harmelen, Frank,
 "Reinforcement Learning with Option Machines".
-*to appear at [IJCAI](https://www.ijcai.org)* (2022)  
-[pdf](/publications/ijcai22-option-machines.pdf)
+*Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence*, 2909-2915 (2022)  
+[doi](https://doi.org/10.24963/ijcai.2022/403) [pdf](https://www.ijcai.org/proceedings/2022/0403.pdf) [preprint](/publications/ijcai22-option-machines.pdf) [bib](/publications/ijcai22.bib)
 
 Den Hengst, Floris and François-Lavet, Vincent and Hoogendoorn, Mark and Van Harmelen, Frank,
 "Planning for potential: efficient safe reinforcement learning".
@@ -61,7 +61,7 @@ Presented at [RL for Real Life conference 2020](https://sites.google.com/view/RL
 
 Van Zeelt, Mickey and Den Hengst, Floris and Hashemi, Seyyed Hadi,
 "Collecting High Quality Dialogue User Satisfaction Ratings with Third-Party Annotators."
-*Proceedings of the 2020 Conference on Human Information Interaction and Retrieval.*,
+*Proceedings of the 2020 Conference on Human Information Interaction and Retrieval*,
 363-367 (2020)  
 [doi](https://doi.org/10.1145/3343413.3377998) [bib](/publications/van2020collecting.bib) 
 
