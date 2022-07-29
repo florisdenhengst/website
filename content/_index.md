@@ -77,10 +77,10 @@ _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_ (2016)
 
 ## Student supervision
 Current:
-* Stefan Petrescu, Msc. thesis
 * Haritha Jayaraman, Msc. thesis
 
 Past:
+* Stefan Petrescu, "Rethinking Log Parsing in the Context of Modern Software Ecosystems", Msc. thesis
 * Daniel van der Riet, "Safe Reinforcement Learning with a Learned Transition Function", Msc. thesis
 * Yannick Smit, "Strategic Workforce Planning with Deep Reinforcement Learning", Msc. thesis
 * Claudia-Violeta Grigorias, "Learning safe behaviours with dynamic hyperparameters in Reinforcement Learning", Bsc. thesis
