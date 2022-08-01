@@ -1,7 +1,7 @@
 ---
 title: "ACAI Summer School 2019"
 date: 2019-07-06T16:41:29+02:00
-tags: [Courses, ]
+tags: [courses, ]
 draft: false 
 ---
 

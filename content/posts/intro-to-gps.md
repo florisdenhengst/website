@@ -195,7 +195,7 @@ It is quite clear that the random walk kernel in Figure 4(b). So when doing an e
 ## Gaussian Processes and Reinforcement Learning
 Regression based on Gaussian processes can be used quite effectively within
 various Reinforcement Learning approaches. For example, when estimating
-transitions in model-based RL.[^pilco]
+transitions in model-based RL[^4].
 
 Gaussian processes can also used to estimate \(V\) and \(Q\) functions within
 e.g. [dialogue management](/posts/personalized-dm) and for [personalization](/posts/rl-for-pers-survey/) with RL.
@@ -204,4 +204,4 @@ e.g. [dialogue management](/posts/personalized-dm) and for [personalization](/po
 [^gp-definition]: CE Rasmussen, CKI Williams, "Gaussian Processes for Machine Learning.", MIT Press, 2006
 [^conditioning-derivation]: [This](https://stats.stackexchange.com/a/30600) Stats Stack Exchange contains all the details for the derivation of the conditioning formula.
 [^3]: Note that this kind of regression where each random variable denotes a feature of the models is more akin to Bayesian Regression than to GPs. In GPs, random variables denote train and test points of the model.
-[^pilco] See e.g. the [PILCO](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.7735&rep=rep1&type=pdf) approach
+[^4] See e.g. the [PILCO](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.303.7735&rep=rep1&type=pdf) approach
