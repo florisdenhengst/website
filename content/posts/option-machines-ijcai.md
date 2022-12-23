@@ -12,3 +12,5 @@ presentation (~3% acceptance rate) at [IJCAI](https://ijcai-22.org/).
 
 Stay tuned for details!
 
+*Update 2022-08-01*: I presented my paper at IJCAI, it was [great fun](/posts/ijcai2022)!  
+*Update 2022-09-23*: The IJCAI proceedings are now [available](https://www.ijcai.org/proceedings/2022/403).
