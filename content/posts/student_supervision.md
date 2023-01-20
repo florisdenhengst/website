@@ -21,7 +21,7 @@ A third key contribution is what I call an ‘insight’. The insight can either
 
 There are other types of key contributions as well. These include tooling, datasets, simulators and quantitative research in general. Within AI research, they are not that common and I have found them too be very rare for a thesis.
 
-##Writing a good thesis
+## Writing a good thesis
 Unfortunately, obtaining a good contribution is just the start. A major part of the thesis project is getting it out in written form. However, the act of writing a thesis largely does not at all consist of putting down words on Overleaf. I do not think there is some formula for writing a good thesis. But there are some general pitfalls to avoid and things that may help some people.
 
 Before listing these, the first observation I want to make is that writing is the inverse of reading. Whereas in reading you go from words → sentences → sections → chapters → understanding, in writing you go from understanding → chapters → sections → sentences → words. Starting out by writing full sentences with nicely chosen words is a major mistake for students and I try to actively challenge students to ask feedback on bullet points, draft outlines, word clouds etc. Usually, the feedback is much more useful than feedback on a full piece of writing.
@@ -39,7 +39,7 @@ After having come up with some chapter structure, draft some figures. These coul
 
 A trope of academic writing is that you first write chapters, then write sections, then write paragraphs (key words or key sentences), then sentences and finally words. It’s a trope for a reason! You only start caring about using the right words at the very end. Here, applying structure is important as well. Be precise and consistent: pick a word and use the same word across the text. Use signaling words to guide the reader through. Do not be afraid of repetition across Chapters. Avoid informal language and use hedging. Apply creativity with caution and make sure that creative writing serves the content: it should add to clarity and not distract.
 
-##Process & Structure
+## Process & Structure
 The process of a thesis is a bit wobbly and I find it very hard to write anything useful about it in general. The one thing I will briefly touch upon is the scope of the research. The scope of the research should follow a flattened diamond shape. I assume that some kind of research project description, made by some project owner is already in place. The project owner may be a PhD. student, university staff or external organization. The project owner is involved in the project somehow, mostly as supervisor.
 
 The project description usually contains a set of research goals or questions. These are not *your* research questions, but aim to demarcate a research area of interest to the project owner. It is your job to take these and make them into your research questions. You do this based on project owner needs, needs of other stakeholders, related work and identified risks and limitations. You obtain these by talking to the project owner, talking to other stakeholders, by doing literature review and by a feasibility analysis. You should follow the ‘fan-out’ structure of the diamond shape here. The scope of what your research could include should increase. You should come up with backup plans, alternative questions, investigate adjacent research fields etc. For all I care, you even consider other supervisors or other partners in the project.
