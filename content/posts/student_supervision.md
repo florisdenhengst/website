@@ -1,7 +1,7 @@
 ---
 title: "Student Supervision"
 date: 2023-01-20T15:48:55+01:00
-draft: true
+draft: false
 ---
 For the past couple of years, I have always loved working with Msc. and Bsc. students. Usually, I have been involved in the role supervisor for the thesis.
 In doing so, I have learned a great deal about what makes a good AI research project and what I can do to make these projects better.
