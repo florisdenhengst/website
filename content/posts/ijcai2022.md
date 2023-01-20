@@ -38,3 +38,5 @@ The conference had a focus that seems pretty typical of AI research in Europe at
 For proof of attendance and awkwardness, see the picture below ;)
 
 ![Awkward poster pic](/imgs/ijcai2022/poster.jpg)
+
+*Update 2022-09-23*: the proceedings are available at [IJCAI](https://www.ijcai.org/proceedings/2022/403).
