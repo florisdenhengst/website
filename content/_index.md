@@ -40,7 +40,7 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
 Smit, Yannick and den Hengst, Floris and Bhulai, Sandjai and Mehdad, Ehsan,
 "Strategic Workforce Planning with Deep Reinforcement Learning".
 *Machine Learning, Optimization, and Data Science* (2022)  
-[doi](https://doi.org/10.1007/978-3-031-25891-6_9) [preprint](/publications/Workforce_Planning_with_Deep_Reinforcement_Learning__preprint_.pdf) [bib](/publications/lod22.bib)
+[doi](https://doi.org/10.1007/978-3-031-25891-6_9) [pdf](https://link.springer.com/content/pdf/10.1007/978-3-031-25891-6_9.pdf?pdf=inline%20link) [preprint](/publications/Workforce_Planning_with_Deep_Reinforcement_Learning__preprint_.pdf) [bib](/publications/lod22.bib)
 
 Den Hengst, Floris and François-Lavet, Vincent and Hoogendoorn, Mark and Van Harmelen, Frank,
 "Reinforcement Learning with Option Machines".
