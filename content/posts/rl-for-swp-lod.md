@@ -16,3 +16,6 @@ Details and preprint will follow.
 *Update 2022-07-04*
 [Preprint](/publications/Workforce_Planning_with_Deep_Reinforcement_Learning__preprint_.pdf) is now available!
 
+*Update 2023-03-10*
+Paper is now [available](https://doi.org/10.1007/978-3-031-25891-6_9) in Springer LNCS!
+
