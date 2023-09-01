@@ -1,12 +1,9 @@
 # TODO
-* Post on githubpages
-* Update photo
 * Remove academic theme
   * And all of its posts
 * Move profile to 'about' and update
 * Search page using Duckduckgo
   * site:<url> searchTerm
-* Write author bio
 * Add page on Msc. thesis supervision
   * How to name it? Tutoring / Mentoring / Students?
 * Reading list / books
@@ -19,21 +16,16 @@
   * How it differs from QLearning
   * https://datascience.stackexchange.com/questions/27311/reinforcement-learning-on-data-only-no-emulators 
   * Use a cart-pole balancing with a random policy from openAI gym
+  * How to measure variance of (Weighted) Importance Sampling?
 * Claim florisdenhengst.com or some nickname and refer to it
   * Update `baseURL` in ``config.toml``
 * Blog post ideas
   * Bitshifting Sudoku Automated Reasoning
   * Route planner project (linked data)
-  * Structured Literature Review
-    * The outcomes
-    * The practicalities
-  * PhD research plan
   * PhD in business, experiences
-  * ESNs as more controllable recurrent nets
   * Research into mistakes typically made by auditors / regulators
     * Mistakes should reflect situations in ML systems well
     * Do a survey with someone who'd like to work on this
-  * Something on RL?
 * Random idea snippets page?
   * Learning interpretable reward functions.
     * First learn an explicit (immediate) reward function as in Michal's thesis using a deep
@@ -66,12 +58,20 @@
     * What is already done on this topic?
     * For example python fastdtw seems to work on Spark
     * https://github.com/MaxBenChrist/Fast-Parallel-DTW-kNN-Python
+  * stratified sampling train/test split for off-policy RL -- sample trajectories but stratify by states or state-action pairs.
+    This probably requires some optimization to select items -- use an (evolutionary?) optimizer or some other approach
+    The goal is for OPE/importance-sampling based approaches to have better coverage of the space during evaluation, hence hopefully have lower variance estimates
+  * Weighted model counting for safe RL / RL with constraints. Or even more generally, for any MDP (or even RDP) problem.
   * ...
-* Include dask app
-  * using hugo 'shortcode' using an iframe?
 * Canvas for RL
   * Similar to all types of canvases in project management etc.
   * E.g. Machine Learning Canvas
+  * See ReFrame by Phil Winder
+* Stabilize tree learning with Conformal Prediction
+  * Use a training set to iteratively split the dataset into classes with a greedy heuristic on information gain.
+  * Instead of doing a greedy split based on the training set, use a held-out part of the data (calibration set)
+  * estimate a lower bound on the information gain using CP within the data-split
+  * How different from bagging/boosting?
 * PostgreSQL query planning
   * Currently uses genetic algorithm for join plan for large number of joins
   * Could be improved using the data & RL
@@ -85,6 +85,3 @@
 	Memory,4 minutes,walk to coffee machine and get a coffee
 	Disk,15 months,travel the world in search of a specific person who happens to know the answer
   * https://manybutfinite.com/post/what-your-computer-does-while-you-wait/
-
-# Done
-* Update Profile page

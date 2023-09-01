@@ -4,26 +4,29 @@ title: "Everything Flo's"
 
 <img src="/imgs/flopic.jpg" style="max-width:20%;min-width:40px;float:right;padding:0 0 1em 1em;" alt="Picture of Floris" />
 
-My name is Floris den Hengst and I am a PhD. student in the [Quantitative Data Analytics](https://www.qda.cs.vu.nl) and [Knowledge
-Representation & Reasoning](https://krr.cs.vu.nl/) groups of the Vrije Universiteit Amsterdam and
-ING's [AI for FinTech Research](https://se.ewi.tudelft.nl/ai4fintech/). I am
-interested in adaptivity v.s. control in learning systems, knowledge
-representation and language systems.
+My name is Floris den Hengst and I am a PostDoc working on reinforcement
+learning for patient-centric decision-making in the [Hybrid Intelligence
+centre](https://www.hybrid-intelligence-centre.nl/) with Annette ten Teije at
+the Vrije Universiteit Amsterdam and Herke van Hoof at the University of
+Amsterdam.
 
-My PhD research is targeted at making Reinforcement Learning agents comply to regulations.
-Adaptivity can be of huge benefit in highly regulated domains such as healthcare and finance. In
-these domains, systems have to comply to regulations before they can be used. Understanding the
-regulations, on the other hand, is an expertise in itself.
+I am interested in adaptivity v.s. control in learning systems, sequential
+decision-making problems, goal and constraint specification and uncertainty
+quantification. My research touches on practical and fundamental aspects of
+explainability and safety of AI.
 
-This project touches practical and fundamental aspects of explainability and safety of AI.  How
-can we formalize regulations so that domain experts can inspect, understand and validate the
-result? How can we bridge the gap between experts' and RL agents' representation of the world and
-actions? How does constraining a RL agent impact its learning capabilities? In this project, we
-use an adaptive conversational agent for financial advice to investigate these issues.
+I performed my PhD research in the [Quantitative Data
+Analytics](https://www.qda.cs.vu.nl) and [Learning &
+Reasoning](https://lr.cs.vu.nl/) groups of the Vrije Universiteit Amsterdam and
+ING's [AI for FinTech Research](https://se.ewi.tudelft.nl/ai4fintech/) and have
+hands-on experience as a software engineer and data scientist.
+
 
 ## Experience
+PostDoc, [Vrije Universiteit](https://lr.cs.vu.nl/), current
+
 PhD student, [Vrije Universiteit
-Amsterdam](https://www.cs.vu.nl/ci/index.php/constrained-reinforcement-learning-for-personalization-in-highly-regulated-domains/) and [ING](https://icai.ai/ai-for-fintech-lab/), current
+Amsterdam](https://vu-qda.github.io/projects/constrained-rl-in-regulated-domains/) and [ING](https://icai.ai/ai-for-fintech-lab/), 2017-current
 
 Software Engineer, [Crunchr](https://www.crunchrapps.com), 2014 - 2017
 
@@ -37,6 +40,13 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
   Officially titled `Lifestyle Informatics' at the time
 
 ## Publications
+### 2023
+Petrescu, Stefan and den Hengst, Floris and Uta, Alexandru and Rellermeyer, Jan S.,
+"Log Parsing Evaluation in the Era of Modern Software Systems"
+*The 34th IEEE International Symposium on Software Reliability Engineering*  
+[preprint](https://arxiv.org/abs/2308.09003)
+
+### 2022
 Smit, Yannick and den Hengst, Floris and Bhulai, Sandjai and Mehdad, Ehsan,
 "Strategic Workforce Planning with Deep Reinforcement Learning".
 *Machine Learning, Optimization, and Data Science* (2022)  
@@ -53,6 +63,7 @@ Den Hengst, Floris and François-Lavet, Vincent and Hoogendoorn, Mark and Van Ha
 Presented at [BeNeRL 2022](https://rlg.liacs.nl/benerl-2022)  
 [doi](https://doi.org/10.1007/s10994-022-06143-6) [bib](/publications/mlj22.bib) [pdf](https://link.springer.com/content/pdf/10.1007/s10994-022-06143-6.pdf)
 
+### 2020
 Den Hengst, Floris and Grua, Eoin Martino and el Hassouni, Ali and Hoogendoorn, Mark,
 "Reinforcement Learning for Personalization: A Systematic Literature Review".
 *Data Science* (2020)  
@@ -65,29 +76,14 @@ Van Zeelt, Mickey and Den Hengst, Floris and Hashemi, Seyyed Hadi,
 363-367 (2020)  
 [doi](https://doi.org/10.1145/3343413.3377998) [bib](/publications/van2020collecting.bib) 
 
+### 2019
 Den Hengst, Floris and Hoogendoorn, Mark and Van Harmelen, Frank and Bosman, Joost,
 "Reinforcement Learning for Personalized Dialogue Management". *2019 IEEE/WIC/ACM International
 Conference on Web Intelligence (WI)*, 59-76 (2019)  
 [doi](https://doi.org/10.1145/3350546.3352501) [bib](/publications/wi19.bib) [pdf](/publications/wi19.pdf) 
 
+### 2016
 Floris den Hengst - Detecting Interesting Outliers: Active Learning for Anomaly Detection,
 _Master's thesis Artificial Intelligence, Vrije Universiteit Amsterdam_ (2016)   
 [pdf](publications/masterthesis_floris_den_hengst.pdf) 
 
-
-## Student supervision
-Current:
-* Haritha Jayaraman, Msc. thesis
-
-Past:
-* Stefan Petrescu, "Rethinking Log Parsing in the Context of Modern Software Ecosystems", Msc. thesis
-* Daniel van der Riet, "Safe Reinforcement Learning with a Learned Transition Function", Msc. thesis
-* Yannick Smit, "Strategic Workforce Planning with Deep Reinforcement Learning", Msc. thesis
-* Claudia-Violeta Grigorias, "Learning safe behaviours with dynamic hyperparameters in Reinforcement Learning", Bsc. thesis
-* Michal Nauman, ["Low-Variance Policy Gradient Estimation with World Models"](https://arxiv.org/abs/2010.15622), Msc. thesis
-* Azamat Omuraliev, "Reinforcement Learning for Controllable Text Summarization", Msc. thesis
-* Mickey van Zeelt, "Gathering External Evaluations on Chatbot Conversations", Msc. thesis
-* Tim Nederveen, "Reducing Expert Interference in Time Series Anomaly Detection Model Re-evaluations", Msc. thesis
-* Rob Wanders "Predicting Number of Transactions with Echo State Networks", BA paper
-* Luca Simonetto "Generating Spiking Time Series with Generative Adversarial Networks: an Application on Banking Transactions", Msc. thesis
-* Ilse Goedhart "Predicting IT Performance using Quantile Regression", BA paper
