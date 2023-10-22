@@ -41,6 +41,11 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
 
 ## Publications
 ### 2023
+Den Hengst, Floris
+"Learning to Behave: Reinforcement Learning in Human Contexts".  
+*PhD. thesis**  
+[doi](https://doi.org/10.5463/thesis.390) [bib](/publications/phdthesis.bib) [pdf](/publications/phdthesis-digital.pdf) [cover](/publications/phdthesis-cover.pdf)
+
 Petrescu, Stefan and den Hengst, Floris and Uta, Alexandru and Rellermeyer, Jan S.,
 "Log Parsing Evaluation in the Era of Modern Software Systems"
 *The 34th IEEE International Symposium on Software Reliability Engineering*  
