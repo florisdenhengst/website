@@ -41,10 +41,15 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
 
 ## Publications
 ### 2023
+Otten, Martijn and Jagesar, Ameet R. and Dam, Tariq A. and Biesheuvel, Laurens A. and den Hengst, Floris and Ziesemer, Kirsten A. PhD3 and Thoral, Patrick J. MD, and de Grooth, Harm-Jan MD, PhD and Girbes, Armand R.J. MD, PhD, and François-Lavet, Vincent PhD2 and Hoogendoorn, Mark PhD2 and Elbers, Paul W.G. MD, PhD,
+"Does Reinforcement Learning Improve Outcomes for Critically Ill Patients? A Systematic Review and Level-of-Readiness Assessment"
+*Critical Care Medicine*  
+[doi](https://doi.org/10.1097/CCM.0000000000006100) [bib](/publications/critcare2023.bib)
+
 Den Hengst, Floris
 "Learning to Behave: Reinforcement Learning in Human Contexts".  
-*PhD. thesis**  
-[doi](https://doi.org/10.5463/thesis.390) [bib](/publications/phdthesis.bib) [pdf](/publications/phdthesis-digital.pdf) [cover](/publications/phdthesis-cover.pdf)
+*PhD. thesis*  
+[doi](https://doi.org/10.5463/thesis.390) [pdf](/publications/phdthesis-digital.pdf) [cover](/publications/phdthesis-cover.pdf) [bib](/publications/phdthesis.bib) 
 
 Petrescu, Stefan and den Hengst, Floris and Uta, Alexandru and Rellermeyer, Jan S.,
 "Log Parsing Evaluation in the Era of Modern Software Systems"
