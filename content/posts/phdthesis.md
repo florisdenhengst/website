@@ -1,7 +1,7 @@
 ---
 title: "PhD. Defense Talk"
 date: 2023-11-14T13:19:56+01:00
-draft: true
+draft: false
 tags: [reinforcement learning]
 ---
 
