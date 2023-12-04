@@ -51,7 +51,7 @@ Harmelen, Frank and Hoogendoorn, Mark,
 Visbeek, Samantha and Acar, Erman and den Hengst, Floris
 "Explainable Fraud Detection with Deep Symbolic Classification"
 *2023 Workshop on Explainable AI in Finance*  
-[pdf](/publications/xaifin23.pdf) [bib](/publications/xaifin23.bib)
+[doi](https://doi.org/10.48550/arXiv.2312.00586) [pdf](/publications/xaifin23.pdf) [bib](/publications/xaifin23.bib)
 
 Otten, Martijn and Jagesar, Ameet R. and Dam, Tariq A. and Biesheuvel, Laurens A. and den Hengst, Floris and Ziesemer, Kirsten A. and Thoral, Patrick J. and de Grooth, Harm-Jan and Girbes, Armand R.J. and François-Lavet, Vincent and Hoogendoorn, Mark and Elbers, Paul W.G.,
 "Does Reinforcement Learning Improve Outcomes for Critically Ill Patients? A Systematic Review and Level-of-Readiness Assessment"
