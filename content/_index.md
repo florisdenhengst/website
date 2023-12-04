@@ -41,17 +41,24 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
 
 ## Publications
 ### 2023
+den Hengst, Floris and Otten, Martijn and Elbers, Paul and François-Lavet, Vincent and van
+Harmelen, Frank and Hoogendoorn, Mark,
+"Guideline-informed reinforcement learning for mechanical ventilation in critical care"
+*Artificial Intelligence in Medicine*, Elsevier (2023)  
+[doi](https://doi.org/10.1016/j.artmed.2023.102742) [bib](/publications/aime23.bib)
+[pdf](https://www.sciencedirect.com/science/article/pii/S0933365723002567/pdfft?md5=fcce32911bca701fa3b48382e4c2b4a7&pid=1-s2.0-S0933365723002567-main.pdf)
+
 Visbeek, Samantha and Acar, Erman and den Hengst, Floris
 "Explainable Fraud Detection with Deep Symbolic Classification"
-*Workshop on Explainable AI in Finance*  
+*2023 Workshop on Explainable AI in Finance*  
 [pdf](/publications/xaifin23.pdf) [bib](/publications/xaifin23.bib)
 
-Otten, Martijn and Jagesar, Ameet R. and Dam, Tariq A. and Biesheuvel, Laurens A. and den Hengst, Floris and Ziesemer, Kirsten A. and Thoral, Patrick J. and de Grooth, Harm-Jan and Girbes, Armand R.J. and François-Lavet, Vincent and Hoogendoorn, Mark and Elbers, Paul W.G.
+Otten, Martijn and Jagesar, Ameet R. and Dam, Tariq A. and Biesheuvel, Laurens A. and den Hengst, Floris and Ziesemer, Kirsten A. and Thoral, Patrick J. and de Grooth, Harm-Jan and Girbes, Armand R.J. and François-Lavet, Vincent and Hoogendoorn, Mark and Elbers, Paul W.G.,
 "Does Reinforcement Learning Improve Outcomes for Critically Ill Patients? A Systematic Review and Level-of-Readiness Assessment"
 *Critical Care Medicine*  
 [doi](https://doi.org/10.1097/CCM.0000000000006100) [bib](/publications/critcare2023.bib)
 
-Den Hengst, Floris
+den Hengst, Floris
 "Learning to Behave: Reinforcement Learning in Human Contexts".  
 *PhD. thesis*  
 [doi](https://doi.org/10.5463/thesis.390) [pdf](/publications/phdthesis-digital.pdf) [cover](/publications/phdthesis-cover.pdf) [bib](/publications/phdthesis.bib) 
