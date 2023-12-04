@@ -14,7 +14,7 @@ In the Netherlands it is customary to give a 10 minute talk prior to the actual 
 is aimed at a general audience because the defense is a public affair and because it is nice to
 tell friends and family what the thesis is about!
 
-Please find the transcript below and the accompanying slide deck [here](/presentations/talk_defense.pdf).
+Please find the transcript below and the accompanying slide deck (in Dutch) [here](/presentations/talk_defense.pdf).
 
 ![Picture of me defending my thesis](/imgs/phd-defense.png)
 
