@@ -55,7 +55,7 @@ Visbeek, Samantha and Acar, Erman and den Hengst, Floris
 
 Otten, Martijn and Jagesar, Ameet R. and Dam, Tariq A. and Biesheuvel, Laurens A. and den Hengst, Floris and Ziesemer, Kirsten A. and Thoral, Patrick J. and de Grooth, Harm-Jan and Girbes, Armand R.J. and François-Lavet, Vincent and Hoogendoorn, Mark and Elbers, Paul W.G.,
 "Does Reinforcement Learning Improve Outcomes for Critically Ill Patients? A Systematic Review and Level-of-Readiness Assessment"
-*Critical Care Medicine*, LWW (2023)
+*Critical Care Medicine*, LWW (2023)  
 [doi](https://doi.org/10.1097/CCM.0000000000006100) [bib](/publications/critcare2023.bib)
 
 den Hengst, Floris
