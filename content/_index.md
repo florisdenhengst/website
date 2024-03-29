@@ -40,6 +40,13 @@ Bsc. Artificial Intelligence, GPA 7.9 / 10, Vrije Universiteit Amsterdam, 2008 -
   Officially titled `Lifestyle Informatics' at the time
 
 ## Publications
+### 2024
+den Hengst, Floris and Wolter, Ralf and Altmeyer, Patrick and Kaygan, Arda,
+"Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition"
+*to appear in NAACL Findings*, ACL (2024)  
+[preprint](https://arxiv.org/pdf/2403.18973)
+
+
 ### 2023
 den Hengst, Floris and Otten, Martijn and Elbers, Paul and François-Lavet, Vincent and van
 Harmelen, Frank and Hoogendoorn, Mark,
