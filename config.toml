@@ -20,17 +20,25 @@ theme = "metis"
     url = "/"
     weight = 1
 [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 3
+[[menu.main]]
     name = "Blog"
     url = "/posts/"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 4
+    weight = 5
 [[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 5
+    weight = 6
 
 
 [params]
@@ -41,5 +49,5 @@ theme = "metis"
         "[<img src='https://simpleicons.org/icons/linkedin.svg'>](https://www.linkedin.com/in/floris-den-hengst-06ab7534/)",
         "[<img src='/imgs/orcid.svg'>](https://orcid.org/0000-0002-2092-9904)",
         "[<img src='/imgs/gscholar.png'>](https://scholar.google.nl/citations?user=8I8iSHkAAAAJ)",
-        "| Created with [Hugo](https://gohugo.io) and [Metis](https://florisdenhengst.github.io/metis-example/) theme | &copy; [Floris den Hengst](https://florisdenhengst.github.io) 2018 -- 2022", 
+        "| Created with [Hugo](https://gohugo.io) and [Metis](https://florisdenhengst.github.io/metis-example/) theme | &copy; [Floris den Hengst](https://florisdenhengst.github.io) 2018 -- 2025", 
         ]
