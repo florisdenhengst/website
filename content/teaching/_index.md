@@ -9,7 +9,8 @@ I am currently (2024) involved in teaching two courses:
 
 I have previously been involved in organising the [Reinforcement Learning Summer School](https://rlsummerschool.com/), read more in this [blog post](http://localhost:1313/posts/reinforcement-learning-summer-school/).
 
-For a (historical) over of Bsc. and Msc. thesis I have served as supervised, see below.
+For a (historical) over of Bsc. and Msc. thesis I have served as supervised, see below.  
+In case you are interested in my vision on supervision, see this [blog post](/posts/student_supervision/) for some of my notes.
 
 ## Msc theses
 ### 2024
