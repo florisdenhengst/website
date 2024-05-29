@@ -7,10 +7,10 @@ I am currently (2024) involved in teaching two courses:
 * I coordinate the Msc. course [Data Mining Techniques](https://studiegids.vu.nl/en/courses/2023-2024/X_400108#/)
 * I taught a guest lecture for the Msc. course [Machine Learning & Reasoning for Health](https://studiegids.vu.nl/EN/courses/2023-2024/XM_0102#/)
 
-I have previously been involved in organising the [Reinforcement Learning Summer School](https://rlsummerschool.com/), read more in this [blog post](http://localhost:1313/posts/reinforcement-learning-summer-school/).
+I have helped organise the [Reinforcement Learning Summer School](https://rlsummerschool.com/), read more in this [blog post](http://localhost:1313/posts/reinforcement-learning-summer-school/).
 
-For a (historical) over of Bsc. and Msc. thesis I have served as supervised, see below.  
-In case you are interested in my vision on supervision, see this [blog post](/posts/student_supervision/) for some of my notes.
+Below is an overview of Bsc. and Msc. thesis projects I have supervised.
+In case you are interested in my notes on thesis supervision, read more in this [blog post](/posts/student_supervision/).
 
 ## Msc theses
 ### 2024
