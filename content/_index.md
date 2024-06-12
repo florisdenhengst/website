@@ -21,6 +21,9 @@ Reasoning](https://lr.cs.vu.nl/) groups of the Vrije Universiteit Amsterdam and
 ING's [AI for FinTech Research](https://se.ewi.tudelft.nl/ai4fintech/) and have
 hands-on experience as a software engineer and data scientist.
 
+* I am part of the [Hybrid Intelligence Center](https://www.hybrid-intelligence-centre.nl/)
+* I am a member of the [Network Institute](https://networkinstitute.org/)
+* I am PC member for ECAI
 
 ## Experience
 PostDoc, [Vrije Universiteit](https://lr.cs.vu.nl/), current
