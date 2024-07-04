@@ -5,6 +5,11 @@ draft: False
 ---
 
 ### 2024
+Chen, Pei-Yu and Santamaria, Selene Baez and de Boer, Maaike H.T.  and den Hengst, Floris and Kamphorst,  Bart A. and Smit,Quirine and Wang, Shihan and Wolff, Johanna,  
+"Intelligent Support Systems for Lifestyle Change: Integrating Dialogue, Information Extraction, and Reasoning"
+*HHAI 2024: Hybrid Human AI Systems for the Social Good*, IOS Press (2024)  
+[doi](https://doi.org/10.3233/FAIA240223) [bib](/publications/hhai24.bib)
+
 den Hengst, Floris and Wolter, Ralf and Altmeyer, Patrick and Kaygan, Arda,
 "Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition"
 *to appear in NAACL Findings*, ACL (2024)  
