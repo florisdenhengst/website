@@ -12,9 +12,8 @@ Chen, Pei-Yu and Santamaria, Selene Baez and de Boer, Maaike H.T.  and den Hengs
 
 den Hengst, Floris and Wolter, Ralf and Altmeyer, Patrick and Kaygan, Arda,
 "Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition"
-*to appear in NAACL Findings*, ACL (2024)  
-[preprint](https://arxiv.org/pdf/2403.18973)
-
+*Findings of the Association for Computational Linguistics: NAACL 2024*, ACL (2024)  
+[url](https://aclanthology.org/2024.findings-naacl.156) [pdf](https://aclanthology.org/2024.findings-naacl.156.pdf) [bib](/publications/naacl24.bib)
 
 ### 2023
 den Hengst, Floris and Otten, Martijn and Elbers, Paul and François-Lavet, Vincent and van
