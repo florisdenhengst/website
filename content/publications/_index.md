@@ -15,6 +15,11 @@ den Hengst, Floris and Wolter, Ralf and Altmeyer, Patrick and Kaygan, Arda,
 *Findings of the Association for Computational Linguistics: NAACL 2024*, ACL (2024)  
 [url](https://aclanthology.org/2024.findings-naacl.156) [pdf](https://aclanthology.org/2024.findings-naacl.156.pdf) [bib](/publications/naacl24.bib)
 
+Visbeek, Samantha and Acar, Erman and den Hengst, Floris
+"Explainable Fraud Detection with Deep Symbolic Classification"
+*Explainable Artificial Intelligence. xAI 2024. Communications in Computer and Information Science*, Spring (2024)    
+[doi](https://doi.org/10.1007/978-3-031-63800-8_18) [pdf](https://link.springer.com/content/pdf/10.1007/978-3-031-63800-8.pdf) [bib](/publications/xai24.bib) [preprint](https://arxiv.org/pdf/2312.00586)
+
 ### 2023
 den Hengst, Floris and Otten, Martijn and Elbers, Paul and François-Lavet, Vincent and van
 Harmelen, Frank and Hoogendoorn, Mark,
@@ -22,11 +27,6 @@ Harmelen, Frank and Hoogendoorn, Mark,
 *Artificial Intelligence in Medicine*, Elsevier (2023)  
 [doi](https://doi.org/10.1016/j.artmed.2023.102742) [bib](/publications/aime23.bib)
 [pdf](https://www.sciencedirect.com/science/article/pii/S0933365723002567/pdfft?md5=fcce32911bca701fa3b48382e4c2b4a7&pid=1-s2.0-S0933365723002567-main.pdf)
-
-Visbeek, Samantha and Acar, Erman and den Hengst, Floris
-"Explainable Fraud Detection with Deep Symbolic Classification"
-*2023 Workshop on Explainable AI in Finance*  
-[doi](https://doi.org/10.48550/arXiv.2312.00586) [pdf](/publications/xaifin23.pdf) [bib](/publications/xaifin23.bib)
 
 Otten, Martijn and Jagesar, Ameet R. and Dam, Tariq A. and Biesheuvel, Laurens A. and den Hengst, Floris and Ziesemer, Kirsten A. and Thoral, Patrick J. and de Grooth, Harm-Jan and Girbes, Armand R.J. and François-Lavet, Vincent and Hoogendoorn, Mark and Elbers, Paul W.G.,
 "Does Reinforcement Learning Improve Outcomes for Critically Ill Patients? A Systematic Review and Level-of-Readiness Assessment"
