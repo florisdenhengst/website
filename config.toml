@@ -28,7 +28,7 @@ theme = "metis"
     url = "/teaching/"
     weight = 3
 [[menu.main]]
-    name = "Blog"
+    name = "Posts"
     url = "/posts/"
     weight = 4
 [[menu.main]]
