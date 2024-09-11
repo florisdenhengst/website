@@ -23,6 +23,7 @@ hands-on experience as a software engineer and data scientist.
 
 * I am part of the [Hybrid Intelligence Center](https://www.hybrid-intelligence-centre.nl/)
 * I am a member of the [Network Institute](https://networkinstitute.org/)
+* I am a member of [Amsterdam AI](https://amsterdamai.com/)
 * I am PC member for ECAI
 
 ## Experience
