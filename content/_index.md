@@ -24,7 +24,8 @@ hands-on experience as a software engineer and data scientist.
 * I am part of the [Hybrid Intelligence Center](https://www.hybrid-intelligence-centre.nl/)
 * I am a member of the [Network Institute](https://networkinstitute.org/)
 * I am a member of [Amsterdam AI](https://amsterdamai.com/en)
-* I am PC member for ECAI
+* I am PC member and reviewer for various journals and conferences, including ECAI, ICAPS and ACL
+  conferences.
 
 ## Experience
 PostDoc, [Vrije Universiteit](https://lr.cs.vu.nl/), current
