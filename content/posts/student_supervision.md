@@ -16,8 +16,8 @@ In my experience, there are roughly three types of contributions in AI theses. I
 discuss them and highlight where contributions are relatively easy or challenging.
 
 The first type of contribution is mostly technology-driven. In it, an existing technology is
-applied on a novel problem. The problem itself can be novel, or the combination of
-problem-technology combination is novel. While the goal is to evaluate existing technology on a
+applied on a novel problem. The problem itself can be novel, or the combination 
+problem-technology is novel. While the goal is to evaluate existing technology on a
 new problem, often the technology has to be adjusted for it to work on the problem at hand. Within
 the scope of a thesis, these adjustments are usually small and can even be limited to a
 hyperparameter optimisation. Alternatively, the technology enables a wider class of problems to be
@@ -38,7 +38,7 @@ it needs to be a proper metric, and its relevance needs to be properly argued (m
 thing, measures something important, has the right statistical properties, can be obtained
 relatively easily, etc.).
 
-While a combination of both novel problem and solution is possible, the downsides of both
+While a combination of both novel problem and novel solution is possible, the downsides of both
 directions add up: you now have a setting in which you are unsure whether the problem is solvable,
 you need to argue that it is relevant, and if you solve it with your proposed approach, you need
 to show (or at least argue) that more simple solutions do not solve it. As a result, this
@@ -51,20 +51,26 @@ activation function is not a critical part of a neural network architecture in p
 Sometimes, theoretical insights are used to derive new algorithms or to simplify existing ones,
 but this is not necessary. On the one hand, both theoretical and empirical insights can have a
 large impact and may result in a paper. On the other hand, there is a high risk of failure. I
-therefore generally advise that one go searching for such a contribution for a thesis. Developing
-the insight typically requires deep understanding of the field, intuition on what makes a good
-insight, patience, and excellence in performing either theoretical/mathematical analysis or doing
-a big empirical study. However, the most important ingredient is probably luck. Challenges abound
-for this type of contribution, and I will only list the most salient issues her: the insight may
-be hard to prove or show, and it may be well known by senior researchers or even already published
-about. However, due to their high potential for impact, it may be worthwhile to keep an eye open
-for such insights while working on the thesis. Then, after some development, the insight needs to
-be thoroughly vetted by discussing it extensively with multiple senior researchers, a thorough
-literature review, and an extensive and critical analysis of the insight.
+therefore generally do not advise to go search for such a contribution for a thesis. But if there
+is a hunch for an insight or an insatiable curiosity for a particular detail of an algorithm then
+diving in might lead to a great research adventure.
+
+Developing the insight typically requires deep understanding of the field, intuition on what makes
+a good insight, patience, and excellence in performing either theoretical/mathematical analysis or
+doing a big empirical study. However, the most important ingredient is probably luck. Challenges
+abound for this type of contribution, and I will only list the most salient issues her: the
+insight may be hard to prove or show, and it may be well known by senior researchers or even
+already published about.
+
+However, due to their high potential for impact, it may be worthwhile to keep an eye open for such
+insights while working on theses of the first two types as well. Then, after some development, the
+insight needs to be thoroughly vetted by discussing it extensively with multiple senior
+researchers, a thorough literature review, and an extensive and critical analysis of the insight.
 
 There are other types of key contributions as well. These include tooling, datasets, simulators,
 and quantitative research in general. Within AI research, they are not that common, and I have
-found them too be very rare for a thesis.
+found them too be rare for a thesis. However, when the context is right (e.g. there is access to a
+data source to build a data set from) this might prove very fruitful.
 
 ## Writing a good thesis
 Unfortunately, obtaining a good contribution is only the start. A major part of the thesis project

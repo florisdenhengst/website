@@ -3,9 +3,11 @@ title: "Teaching"
 date: 2024-04-30T10:33:02+02:00
 draft: false
 ---
-I am currently (2024) involved in teaching two courses:
-* I coordinate the Msc. course [Data Mining Techniques](https://studiegids.vu.nl/en/courses/2023-2024/X_400108#/)
-* I taught a guest lecture for the Msc. course [Machine Learning & Reasoning for Health](https://studiegids.vu.nl/EN/courses/2023-2024/XM_0102#/)
+I have been involved in the follow
+* **Machine Learning (2025)**: Teacher and lab sessions coordinator for [this](https://studiegids.vu.nl/en/courses/2024-2025/X_400154#/) Bsc. AI course
+* **Data Mining Techniques (2024)**: Coordinator of [this](https://studiegids.vu.nl/en/courses/2023-2024/X_400108#/) Msc. AI course
+* **Machine Learning & Reasoning in Health (2023-current)**: Guest lecturer for [this](https://studiegids.vu.nl/en/courses/2024-2025/XM_0102#/) Msc. AI course
+
 
 I have helped organise the [Reinforcement Learning Summer School](https://rlsummerschool.com/), read more in this [blog post](http://localhost:1313/posts/reinforcement-learning-summer-school/).
 

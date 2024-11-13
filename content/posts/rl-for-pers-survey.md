@@ -8,6 +8,8 @@ draft: false
 *Update 2020-06-27*: this paper was presented as a `poster'(video) at the [RL for Real Life virtual
 Conference](https://sites.google.com/view/RL4RealLife). Read more
 [here](/posts/rl-at-workshop/).
+<iframe src="https://archive.org/embed/rlfor-real-life-2020" width="640" height="480"
+frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 Reinforcement learning (RL) is becoming an increasingly popular tool to tackle hairy problems
 using data. A nice example of such a hairy problem is *personalization*. Personalization 
