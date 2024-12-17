@@ -10,7 +10,7 @@ So why not use an LLM for this?
 I tried to create an SVG directly with all the current (2024-12-17) easily available offerings[^list-of-models].
 They all failed miserably.
 
-<figure>
+<figure style="max-width:80%">
 <!--	{{ readFile "static/imgs/genai-svg-logo/logo1.svg" | safeHTML }}-->
 	<img src="/imgs/genai-svg-logo/logo1.svg" />
 <figcaption>
@@ -20,8 +20,7 @@ Figure 1: SVG "icon depicting two fingers (one human, one robotic) holding a Sha
 
 This was not working out, so instead I opted to first generate the image "in vector art style" and then convert it to svg using [this](https://online.rapidresizer.com/tracer.php) useful tool which traces the image and converts it to svg flawlessly.
 
-<figure>
-<!--	{{ readFile "static/imgs/genai-svg-logo/logo1.svg" | safeHTML }}-->
+<figure style="max-width:80%">
 	<img src="/imgs/genai-svg-logo/sharpie-logo.svg" />
 <figcaption>
 Figure 2: SVG created by converting a regular rendered icon created by OpenAI GPT-4o in webp format to SVG using Rapid Resizer's tracing tool.
