@@ -13,7 +13,7 @@ Chen, Pei-Yu and Santamaria, Selene Baez and de Boer, Maaike H.T.  and den Hengs
 den Hengst, Floris and Wolter, Ralf and Altmeyer, Patrick and Kaygan, Arda,
 "Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition"
 *Findings of the Association for Computational Linguistics: NAACL 2024*, ACL (2024)  
-[url](https://aclanthology.org/2024.findings-naacl.156) [pdf](https://aclanthology.org/2024.findings-naacl.156.pdf) [bib](/publications/naacl24.bib)
+[doi](https://doi.org/10.18653/v1/2024.findings-naacl.156) [url](https://aclanthology.org/2024.findings-naacl.156) [pdf](https://aclanthology.org/2024.findings-naacl.156.pdf) [bib](/publications/naacl24.bib)
 
 Visbeek, Samantha and Acar, Erman and den Hengst, Floris
 "Explainable Fraud Detection with Deep Symbolic Classification"
