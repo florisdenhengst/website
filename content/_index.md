@@ -2,7 +2,7 @@
 title: "Everything Flo's"
 ---
 
-<img src="/imgs/flopic.jpg" style="max-width:20%;min-width:40px;float:right;padding:0 0 1em 1em;" alt="Picture of Floris" />
+<img src="/imgs/flopic_small.jpg" style="max-width:20%;min-width:40px;float:right;padding:0 0 1em 1em;" alt="Picture of Floris" />
 
 My name is Floris den Hengst and I am a PostDoc working on reinforcement
 learning for patient-centric decision-making in the [Hybrid Intelligence
