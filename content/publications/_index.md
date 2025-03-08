@@ -4,7 +4,12 @@ date: 2024-04-30T10:30:36+02:00
 draft: False
 ---
 ### 2025
-Aydın, Hüseyin and Dubois-Godin, Kevin and Goncalvez Braz, Libio and __den Hengst, Floris__ and Baraka, Kim and Çelikok, Mustafa Mert and Sauter, Andreas and Wang, Shihan and Oliehoek, Frans A.  
+De Swart, Milena and __den Hengst, Floris__ and Chen, Jieying,  
+"Detecting Linguistic Bias in Government Documents Using Large language Models"
+*to appear in Proceedings of the ACM Web Conference* (2025)  
+[preprint](https://arxiv.org/abs/2502.13548)
+
+Aydın, Hüseyin and Dubois-Godin, Kevin and Goncalvez Braz, Libio and __den Hengst, Floris__ and Baraka, Kim and Çelikok, Mustafa Mert and Sauter, Andreas and Wang, Shihan and Oliehoek, Frans A.,  
 "SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments"
 *AAAI-Bridge Workshop on Collaborative AI and Modeling of Humans* (2025)  
 [doi](https://doi.org/10.48550/arXiv.2501.19245) [bib](/publications/caihu25.bib) [pdf](https://arxiv.org/pdf/2501.19245)
