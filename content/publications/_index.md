@@ -12,7 +12,7 @@ De Swart, Milena and __den Hengst, Floris__ and Chen, Jieying,
 Aydın, Hüseyin and Dubois-Godin, Kevin and Goncalvez Braz, Libio and __den Hengst, Floris__ and Baraka, Kim and Çelikok, Mustafa Mert and Sauter, Andreas and Wang, Shihan and Oliehoek, Frans A.,  
 "SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments"
 *AAAI-Bridge Workshop on Collaborative AI and Modeling of Humans* (2025)  
-[doi](https://doi.org/10.48550/arXiv.2501.19245) [bib](/publications/caihu25.bib) [pdf](https://arxiv.org/pdf/2501.19245)
+[doi](https://doi.org/10.48550/arXiv.2501.19245) [bib](/publications/caihu25.bib) [pdf](https://arxiv.org/pdf/2501.19245) [poster](/publications/caihu25_poster.pdf)
 
 ### 2024
 Chen, Pei-Yu and Santamaria, Selene Baez and de Boer, Maaike H.T.  and **den Hengst, Floris** and Kamphorst,  Bart A. and Smit,Quirine and Wang, Shihan and Wolff, Johanna,  
