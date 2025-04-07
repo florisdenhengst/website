@@ -3,7 +3,7 @@ title: "Teaching"
 date: 2024-04-30T10:33:02+02:00
 draft: false
 ---
-I have been involved in the follow
+I have been involved in the following coursers:
 * **Machine Learning (2025)**: Teacher and lab sessions coordinator for [this](https://studiegids.vu.nl/en/courses/2024-2025/X_400154#/) Bsc. AI course
 * **Data Mining Techniques (2024)**: Coordinator of [this](https://studiegids.vu.nl/en/courses/2023-2024/X_400108#/) Msc. AI course
 * **Machine Learning & Reasoning in Health (2023-current)**: Guest lecturer for [this](https://studiegids.vu.nl/en/courses/2024-2025/XM_0102#/) Msc. AI course
