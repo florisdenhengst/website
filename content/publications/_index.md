@@ -6,8 +6,8 @@ draft: False
 ### 2025
 De Swart, Milena and __den Hengst, Floris__ and Chen, Jieying,  
 "Detecting Linguistic Bias in Government Documents Using Large language Models"
-*to appear in Proceedings of the ACM Web Conference* (2025)  
-[preprint](https://arxiv.org/abs/2502.13548)
+*Proceedings of the ACM Web Conference*, ACM (2025)  
+[doi](https://doi.org/10.1145/3696410.3714526) [pdf](https://dl.acm.org/doi/pdf/10.1145/3696410.3714526) [bib](/publications/webconf25.bib) [preprint](https://arxiv.org/abs/2502.13548) 
 
 Aydın, Hüseyin and Dubois-Godin, Kevin and Goncalvez Braz, Libio and __den Hengst, Floris__ and Baraka, Kim and Çelikok, Mustafa Mert and Sauter, Andreas and Wang, Shihan and Oliehoek, Frans A.,  
 "SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments"
