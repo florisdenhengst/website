@@ -4,6 +4,11 @@ date: 2024-04-30T10:30:36+02:00
 draft: False
 ---
 ### 2025
+Hoekstra, Cas Oude and __den Hengst, Floris__,  
+"Symbolic Quantile Regression for the Interpretable Prediction of Conditional Quantiles"  
+[preprint](https://arxiv.org/abs/2508.08080)
+
+
 De Swart, Milena and __den Hengst, Floris__ and Chen, Jieying,  
 "Detecting Linguistic Bias in Government Documents Using Large language Models"
 *Proceedings of the ACM Web Conference*, ACM (2025)  
