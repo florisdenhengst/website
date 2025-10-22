@@ -1,7 +1,8 @@
 ---
-title: "SHARPIE Tutorial in SIKS course"
+title: "Tutorial in PhD course"
 date: 2025-10-21T16:38:32+02:00
 draft: false
+tags: [reinforcement learning, tutorial, talk, personalization]
 ---
 
 We contributed a tutorial on doing real-world experiments involving humans and sequential decision

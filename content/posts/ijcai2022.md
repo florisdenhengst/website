@@ -2,7 +2,7 @@
 title: "IJCAI 2022"
 date: 2022-08-01T16:43:48+02:00
 draft: false
-tags: [reinforcement learning,]
+tags: [reinforcement learning,talk]
 ---
 
 Last week I attended the International Joint Conference on Artificial

@@ -2,7 +2,7 @@
 title: "BNAIC/BeNeLearn 2024"
 date: 2024-10-19T09:32:44+01:00
 draft: false
-tags: [reinforcement learning,healthcare,media]
+tags: [reinforcement learning,healthcare,media,talk]
 ---
 
 I will attend the [2024 BNAIC/BeNeLearn](https://bnaic2024.sites.uu.nl/) to present our work on
