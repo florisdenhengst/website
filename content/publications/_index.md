@@ -3,6 +3,14 @@ title: "Publications"
 date: 2024-04-30T10:30:36+02:00
 draft: False
 ---
+
+### 2026
+__den Hengst, Floris__ and Alaka, Shaad and Bart A. Kamphorst,  
+"Collaborative hybrid intelligence platform CHIP: A modular architecture for developing and testing personalized lifestyle support interactions"  
+*SoftwareX*, Elsevier (2026)  
+[doi](https://doi.org/10.1016/j.softx.2026.102536) [bib](/publications/softwarex26.bib)
+
+
 ### 2025
 Hoekstra, Cas Oude and __den Hengst, Floris__,  
 "Symbolic Quantile Regression for the Interpretable Prediction of Conditional Quantiles"  
