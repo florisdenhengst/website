@@ -5,6 +5,11 @@ draft: False
 ---
 
 ### 2026
+Hoekstra, Cas Oude and __den Hengst, Floris__,  
+"Symbolic Quantile Regression for the Interpretable Prediction of Conditional Quantiles"  
+*Transactions on Machine Learning Research* (2026)  
+[bib](/publications/sqr_tmlr26.bib) [pdf](https://openreview.net/pdf?id=x9OYbyPJOG)
+
 __den Hengst, Floris__ and Alaka, Shaad and Bart A. Kamphorst,  
 "Collaborative hybrid intelligence platform CHIP: A modular architecture for developing and testing personalized lifestyle support interactions"  
 *SoftwareX*, Elsevier (2026)  
@@ -12,11 +17,6 @@ __den Hengst, Floris__ and Alaka, Shaad and Bart A. Kamphorst,
 
 
 ### 2025
-Hoekstra, Cas Oude and __den Hengst, Floris__,  
-"Symbolic Quantile Regression for the Interpretable Prediction of Conditional Quantiles"  
-[preprint](https://arxiv.org/abs/2508.08080)
-
-
 De Swart, Milena and __den Hengst, Floris__ and Chen, Jieying,  
 "Detecting Linguistic Bias in Government Documents Using Large language Models"
 *Proceedings of the ACM Web Conference*, ACM (2025)  
