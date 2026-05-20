@@ -15,6 +15,8 @@ We introduce Symbolic Quantile Regression (SQR), a framework that bridges the ga
 * SQR's preference for simpler models helps it to generalize better to out-of-distribution data compared to more complex models. 
 
 We also apply the framework on an airline fuel usage prediction task. Here, the goal was to understand why some flights use much more fuel than others.
-We incorporated variety of features that could explain fuel usage and let SQR construct models to predict median ($\tau=.5$) and extreme ($\tau=.9$) fuel usage for a partner in the airline industry providing a big dataset spanning multiple flights across several years.
+
+We incorporated variety of features that could explain fuel usage and let SQR construct models to predict median (\\(\tau=.5\\)) and extreme (\\(\tau=.9\\)) fuel usage for a partner in the airline industry providing a big dataset spanning multiple flights across several years.
+
 We then studied the resulting models and found that a key difference between the two models is the appearance of the so-called *adjusted speeding factor*, a feature that measures whether a pilot is speeding to make up for lost time during turnaround.
 SQR thereby helped identify operations and scheduling as a target for CO2 reductions by providing interpretable and actionable predictive models at various locations of the fuel usage distribution.
