@@ -14,6 +14,6 @@ Focusing on the technical contributions, there are two:
 
 We hope this can help make patients more informed decisions during a critical point in their care journey when they have to balance to "how long?" with "how well?" in choosing their personal treatment plan.
 
-The algorithm for the missing-aware random survival forest is available as a pip package on [Pypi](https://pypi.org/project/masurvival/), the proceedings [here](https://doi.org/10.1007/978-3-032-30710-1) and a preprint of our paper [here](/publications/aime26.pdf).
+The algorithm for the missing-aware random survival forest is available as a pip package on [Pypi](https://pypi.org/project/masurvival/), the proceedings are [here](https://doi.org/10.1007/978-3-032-30710-1), a preprint of our paper [here](/publications/aime26.pdf), and the paper repo [here](https://github.com/anli66/panc-surv-qol).
 
 ![Conference organizers hand over the award](/imgs/aime26_best_paper.PNG)
