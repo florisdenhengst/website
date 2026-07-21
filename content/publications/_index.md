@@ -7,8 +7,8 @@ draft: False
 ### 2026
 Lisowska, Aneta and __den Hengst, Floris__ and Shah, Syed Ihtesham Hussain and ten Teije, Annette et al.,  
 "Addressing Incomplete Data in Survival and Quality of Life Prediction: A Pancreatic Cancer Case Study"  
-*Artificial Intelligence in Medicine*, Springer (2026)  
-[doi](https://doi.org/10.1007/978-3-032-30710-1_4) [bib](/publications/aime26.bib) [preprint](/publications/aime26.pdf)
+*Artificial Intelligence in Medicine*, Springer (2026) 🏆  
+[doi](https://doi.org/10.1007/978-3-032-30710-1_4) [bib](/publications/aime26.bib) [preprint](/publications/aime26.pdf) 
 
 Hoekstra, Cas Oude and __den Hengst, Floris__,  
 "Symbolic Quantile Regression for the Interpretable Prediction of Conditional Quantiles"  
