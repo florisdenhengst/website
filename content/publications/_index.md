@@ -18,7 +18,7 @@ Hoekstra, Cas Oude and __den Hengst, Floris__,
 __den Hengst, Floris__ and Alaka, Shaad and Bart A. Kamphorst,  
 "Collaborative hybrid intelligence platform CHIP: A modular architecture for developing and testing personalized lifestyle support interactions"  
 *SoftwareX*, Elsevier (2026)  
-[doi](https://doi.org/10.1016/j.softx.2026.102536) [bib](/publications/softwarex26.bib)
+[doi](https://doi.org/10.1016/j.softx.2026.102536) [bib](/publications/softwarex26.bib) [pdf](https://www.sciencedirect.com/science/article/pii/S2352711026000300/pdfft?md5=54f854efbefc236126f25458fa4f30e7&pid=1-s2.0-S2352711026000300-main.pdf)
 
 
 ### 2025
@@ -36,7 +36,7 @@ Aydın, Hüseyin and Dubois-Godin, Kevin and Goncalvez Braz, Libio and __den Hen
 Chen, Pei-Yu and Santamaria, Selene Baez and de Boer, Maaike H.T.  and **den Hengst, Floris** and Kamphorst,  Bart A. and Smit,Quirine and Wang, Shihan and Wolff, Johanna,  
 "Intelligent Support Systems for Lifestyle Change: Integrating Dialogue, Information Extraction, and Reasoning"
 *HHAI 2024: Hybrid Human AI Systems for the Social Good*, IOS Press (2024)  
-[doi](https://doi.org/10.3233/FAIA240223) [bib](/publications/hhai24.bib)
+[doi](https://doi.org/10.3233/FAIA240223) [bib](/publications/hhai24.bib) [pdf](https://journals.sagepub.com/doi/pdf/10.3233/FAIA240223)
 
 **den Hengst, Floris** and Wolter, Ralf and Altmeyer, Patrick and Kaygan, Arda,
 "Conformal Intent Classification and Clarification for Fast and Accurate Intent Recognition"
