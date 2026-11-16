@@ -5,7 +5,7 @@ draft: false
 tags: [publication, NeurIPS, conformal prediction, neurosymbolic, uncertainty quantification, classification]
 ---
 
-Our paper on providing reliable neuro-symbolic classification by combining search and learning based on conformal prediction has been accepted at [NeurIPS 2026](https://neurips.cc/virtual/2026/loc/paris/poster/150172). I will be presented the poster in the Paris edition of this NeurIPS. You can find the accompanying webpage [here](http://florisdh.nl/hierarchical-conformal-classification/).
+Our paper on providing reliable neuro-symbolic classification by combining search and learning based on conformal prediction has been accepted at [NeurIPS 2026](https://neurips.cc/virtual/2026/loc/paris/poster/150172). I will be presented the poster in the Paris edition of NeurIPS 2026. You can find the accompanying webpage [here](http://florisdh.nl/hierarchical-conformal-classification/).
 
 For those are not up-to-speed: NeurIPS is one of the world's premier academic conferences dedicated to presenting groundbreaking research in artificial intelligence, machine learning, and computational neuroscience. It has grown so large (and the global atmosphere around travel, visas, CO2, costs etc. has grown to toxic) that the 2026 edition will be hosted at three official locations simultaneously for the first time. The locations are Sydney, Atlanta and Paris and each come with its own keynotes, main track orals, poster sessions, tutorial and workshops. What a time to be alive!
 
