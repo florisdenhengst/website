@@ -5,6 +5,11 @@ draft: False
 ---
 
 ### 2026
+__den Hengst, Floris__ and Braz, Libio Goncalvez and Godin-Dubois, Kevin and Aydın, Hüseyin and Baraka, Kim and Oliehoek, Frans A. and Wang, Shihan,  
+"SHARPIE: A Robust Framework for Streamlining Human-AI Reinforcement Learning Experiments"  
+*European Workshop for Reinforcement Learning*, Lille (2026)  
+[bib](/publications/ewrl26.bib) [pdf](https://openreview.net/pdf?id=NnVnCEPt55)
+
 Lisowska, Aneta and __den Hengst, Floris__ and Shah, Syed Ihtesham Hussain and ten Teije, Annette et al.,  
 "Addressing Incomplete Data in Survival and Quality of Life Prediction: A Pancreatic Cancer Case Study"  
 *Artificial Intelligence in Medicine*, Springer (2026) 🏆  
